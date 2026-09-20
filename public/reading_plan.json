@@ -1,9 +1,7 @@
 {
   "generatedAt": "2026-09-20",
-  "targetVersesPerDay": 150,
-  "maxChaptersPerDay": 7,
-  "maxVersesPerDay": 175,
-  "totalDays": 240,
+  "chaptersPerDay": 3,
+  "totalDays": 420,
   "totalChapters": 1189,
   "totalVerses": 31103,
   "days": [
@@ -12,1633 +10,3013 @@
       "book": "창세기",
       "testament": "old",
       "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "창세기 1-5장",
-      "verses": 153
+      "end": 3,
+      "chapterCount": 3,
+      "label": "창세기 1-3장",
+      "verses": 92
     },
     {
       "n": 2,
       "book": "창세기",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "창세기 6-10장",
-      "verses": 153
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "창세기 4-6장",
+      "verses": 92
     },
     {
       "n": 3,
       "book": "창세기",
       "testament": "old",
-      "start": 11,
-      "end": 15,
-      "chapterCount": 5,
-      "label": "창세기 11-15장",
-      "verses": 153
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "창세기 7-9장",
+      "verses": 92
     },
     {
       "n": 4,
       "book": "창세기",
       "testament": "old",
-      "start": 16,
-      "end": 20,
-      "chapterCount": 5,
-      "label": "창세기 16-20장",
-      "verses": 153
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "창세기 10-12장",
+      "verses": 92
     },
     {
       "n": 5,
       "book": "창세기",
       "testament": "old",
-      "start": 21,
-      "end": 25,
-      "chapterCount": 5,
-      "label": "창세기 21-25장",
-      "verses": 153
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "창세기 13-15장",
+      "verses": 92
     },
     {
       "n": 6,
       "book": "창세기",
       "testament": "old",
-      "start": 26,
-      "end": 30,
-      "chapterCount": 5,
-      "label": "창세기 26-30장",
-      "verses": 153
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "창세기 16-18장",
+      "verses": 92
     },
     {
       "n": 7,
       "book": "창세기",
       "testament": "old",
-      "start": 31,
-      "end": 35,
-      "chapterCount": 5,
-      "label": "창세기 31-35장",
-      "verses": 153
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "창세기 19-21장",
+      "verses": 92
     },
     {
       "n": 8,
       "book": "창세기",
       "testament": "old",
-      "start": 36,
-      "end": 40,
-      "chapterCount": 5,
-      "label": "창세기 36-40장",
-      "verses": 153
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "창세기 22-24장",
+      "verses": 92
     },
     {
       "n": 9,
       "book": "창세기",
       "testament": "old",
-      "start": 41,
-      "end": 45,
-      "chapterCount": 5,
-      "label": "창세기 41-45장",
-      "verses": 153
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "창세기 25-27장",
+      "verses": 92
     },
     {
       "n": 10,
       "book": "창세기",
       "testament": "old",
-      "start": 46,
-      "end": 50,
-      "chapterCount": 5,
-      "label": "창세기 46-50장",
-      "verses": 153
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "창세기 28-30장",
+      "verses": 92
     },
     {
       "n": 11,
-      "book": "출애굽기",
+      "book": "창세기",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "출애굽기 1-5장",
-      "verses": 152
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "창세기 31-33장",
+      "verses": 92
     },
     {
       "n": 12,
-      "book": "출애굽기",
+      "book": "창세기",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "출애굽기 6-10장",
-      "verses": 152
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "창세기 34-36장",
+      "verses": 92
     },
     {
       "n": 13,
-      "book": "출애굽기",
+      "book": "창세기",
       "testament": "old",
-      "start": 11,
-      "end": 15,
-      "chapterCount": 5,
-      "label": "출애굽기 11-15장",
-      "verses": 152
+      "start": 37,
+      "end": 39,
+      "chapterCount": 3,
+      "label": "창세기 37-39장",
+      "verses": 92
     },
     {
       "n": 14,
-      "book": "출애굽기",
+      "book": "창세기",
       "testament": "old",
-      "start": 16,
-      "end": 20,
-      "chapterCount": 5,
-      "label": "출애굽기 16-20장",
-      "verses": 152
+      "start": 40,
+      "end": 42,
+      "chapterCount": 3,
+      "label": "창세기 40-42장",
+      "verses": 92
     },
     {
       "n": 15,
-      "book": "출애굽기",
+      "book": "창세기",
       "testament": "old",
-      "start": 21,
-      "end": 25,
-      "chapterCount": 5,
-      "label": "출애굽기 21-25장",
-      "verses": 152
+      "start": 43,
+      "end": 45,
+      "chapterCount": 3,
+      "label": "창세기 43-45장",
+      "verses": 92
     },
     {
       "n": 16,
-      "book": "출애굽기",
+      "book": "창세기",
       "testament": "old",
-      "start": 26,
-      "end": 30,
-      "chapterCount": 5,
-      "label": "출애굽기 26-30장",
-      "verses": 152
+      "start": 46,
+      "end": 48,
+      "chapterCount": 3,
+      "label": "창세기 46-48장",
+      "verses": 92
     },
     {
       "n": 17,
-      "book": "출애굽기",
+      "book": "창세기",
       "testament": "old",
-      "start": 31,
-      "end": 35,
-      "chapterCount": 5,
-      "label": "출애굽기 31-35장",
-      "verses": 152
+      "start": 49,
+      "end": 50,
+      "chapterCount": 2,
+      "label": "창세기 49-50장",
+      "verses": 61
     },
     {
       "n": 18,
       "book": "출애굽기",
       "testament": "old",
-      "start": 36,
-      "end": 40,
-      "chapterCount": 5,
-      "label": "출애굽기 36-40장",
-      "verses": 152
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "출애굽기 1-3장",
+      "verses": 91
     },
     {
       "n": 19,
-      "book": "레위기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "레위기 1-5장",
-      "verses": 159
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "출애굽기 4-6장",
+      "verses": 91
     },
     {
       "n": 20,
-      "book": "레위기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "레위기 6-10장",
-      "verses": 159
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "출애굽기 7-9장",
+      "verses": 91
     },
     {
       "n": 21,
-      "book": "레위기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 11,
-      "end": 15,
-      "chapterCount": 5,
-      "label": "레위기 11-15장",
-      "verses": 159
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "출애굽기 10-12장",
+      "verses": 91
     },
     {
       "n": 22,
-      "book": "레위기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 16,
-      "end": 19,
-      "chapterCount": 4,
-      "label": "레위기 16-19장",
-      "verses": 127
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "출애굽기 13-15장",
+      "verses": 91
     },
     {
       "n": 23,
-      "book": "레위기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 20,
-      "end": 23,
-      "chapterCount": 4,
-      "label": "레위기 20-23장",
-      "verses": 127
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "출애굽기 16-18장",
+      "verses": 91
     },
     {
       "n": 24,
-      "book": "레위기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 24,
-      "end": 27,
-      "chapterCount": 4,
-      "label": "레위기 24-27장",
-      "verses": 127
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "출애굽기 19-21장",
+      "verses": 91
     },
     {
       "n": 25,
-      "book": "민수기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "민수기 1-4장",
-      "verses": 143
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "출애굽기 22-24장",
+      "verses": 91
     },
     {
       "n": 26,
-      "book": "민수기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 5,
-      "end": 8,
-      "chapterCount": 4,
-      "label": "민수기 5-8장",
-      "verses": 143
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "출애굽기 25-27장",
+      "verses": 91
     },
     {
       "n": 27,
-      "book": "민수기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 9,
-      "end": 12,
-      "chapterCount": 4,
-      "label": "민수기 9-12장",
-      "verses": 143
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "출애굽기 28-30장",
+      "verses": 91
     },
     {
       "n": 28,
-      "book": "민수기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 13,
-      "end": 16,
-      "chapterCount": 4,
-      "label": "민수기 13-16장",
-      "verses": 143
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "출애굽기 31-33장",
+      "verses": 91
     },
     {
       "n": 29,
-      "book": "민수기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 17,
-      "end": 20,
-      "chapterCount": 4,
-      "label": "민수기 17-20장",
-      "verses": 143
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "출애굽기 34-36장",
+      "verses": 91
     },
     {
       "n": 30,
-      "book": "민수기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 21,
-      "end": 24,
-      "chapterCount": 4,
-      "label": "민수기 21-24장",
-      "verses": 143
+      "start": 37,
+      "end": 38,
+      "chapterCount": 2,
+      "label": "출애굽기 37-38장",
+      "verses": 61
     },
     {
       "n": 31,
-      "book": "민수기",
+      "book": "출애굽기",
       "testament": "old",
-      "start": 25,
-      "end": 28,
-      "chapterCount": 4,
-      "label": "민수기 25-28장",
-      "verses": 143
+      "start": 39,
+      "end": 40,
+      "chapterCount": 2,
+      "label": "출애굽기 39-40장",
+      "verses": 61
     },
     {
       "n": 32,
-      "book": "민수기",
+      "book": "레위기",
       "testament": "old",
-      "start": 29,
-      "end": 32,
-      "chapterCount": 4,
-      "label": "민수기 29-32장",
-      "verses": 143
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "레위기 1-3장",
+      "verses": 95
     },
     {
       "n": 33,
-      "book": "민수기",
+      "book": "레위기",
       "testament": "old",
-      "start": 33,
-      "end": 36,
-      "chapterCount": 4,
-      "label": "민수기 33-36장",
-      "verses": 143
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "레위기 4-6장",
+      "verses": 95
     },
     {
       "n": 34,
-      "book": "신명기",
+      "book": "레위기",
       "testament": "old",
-      "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "신명기 1-6장",
-      "verses": 169
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "레위기 7-9장",
+      "verses": 95
     },
     {
       "n": 35,
-      "book": "신명기",
+      "book": "레위기",
       "testament": "old",
-      "start": 7,
+      "start": 10,
       "end": 12,
-      "chapterCount": 6,
-      "label": "신명기 7-12장",
-      "verses": 169
+      "chapterCount": 3,
+      "label": "레위기 10-12장",
+      "verses": 95
     },
     {
       "n": 36,
-      "book": "신명기",
+      "book": "레위기",
       "testament": "old",
       "start": 13,
-      "end": 18,
-      "chapterCount": 6,
-      "label": "신명기 13-18장",
-      "verses": 169
+      "end": 15,
+      "chapterCount": 3,
+      "label": "레위기 13-15장",
+      "verses": 95
     },
     {
       "n": 37,
-      "book": "신명기",
+      "book": "레위기",
       "testament": "old",
-      "start": 19,
-      "end": 24,
-      "chapterCount": 6,
-      "label": "신명기 19-24장",
-      "verses": 169
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "레위기 16-18장",
+      "verses": 95
     },
     {
       "n": 38,
-      "book": "신명기",
+      "book": "레위기",
       "testament": "old",
-      "start": 25,
-      "end": 29,
-      "chapterCount": 5,
-      "label": "신명기 25-29장",
-      "verses": 141
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "레위기 19-21장",
+      "verses": 95
     },
     {
       "n": 39,
-      "book": "신명기",
+      "book": "레위기",
       "testament": "old",
-      "start": 30,
-      "end": 34,
-      "chapterCount": 5,
-      "label": "신명기 30-34장",
-      "verses": 141
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "레위기 22-24장",
+      "verses": 95
     },
     {
       "n": 40,
-      "book": "여호수아",
+      "book": "레위기",
       "testament": "old",
-      "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "여호수아 1-6장",
-      "verses": 165
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "레위기 25-27장",
+      "verses": 95
     },
     {
       "n": 41,
-      "book": "여호수아",
+      "book": "민수기",
       "testament": "old",
-      "start": 7,
-      "end": 12,
-      "chapterCount": 6,
-      "label": "여호수아 7-12장",
-      "verses": 165
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "민수기 1-3장",
+      "verses": 107
     },
     {
       "n": 42,
-      "book": "여호수아",
+      "book": "민수기",
       "testament": "old",
-      "start": 13,
-      "end": 18,
-      "chapterCount": 6,
-      "label": "여호수아 13-18장",
-      "verses": 165
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "민수기 4-6장",
+      "verses": 107
     },
     {
       "n": 43,
-      "book": "여호수아",
+      "book": "민수기",
       "testament": "old",
-      "start": 19,
-      "end": 24,
-      "chapterCount": 6,
-      "label": "여호수아 19-24장",
-      "verses": 165
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "민수기 7-9장",
+      "verses": 107
     },
     {
       "n": 44,
-      "book": "사사기",
+      "book": "민수기",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "사사기 1-5장",
-      "verses": 147
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "민수기 10-12장",
+      "verses": 107
     },
     {
       "n": 45,
-      "book": "사사기",
+      "book": "민수기",
       "testament": "old",
-      "start": 6,
-      "end": 9,
-      "chapterCount": 4,
-      "label": "사사기 6-9장",
-      "verses": 118
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "민수기 13-15장",
+      "verses": 107
     },
     {
       "n": 46,
-      "book": "사사기",
+      "book": "민수기",
       "testament": "old",
-      "start": 10,
-      "end": 13,
-      "chapterCount": 4,
-      "label": "사사기 10-13장",
-      "verses": 118
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "민수기 16-18장",
+      "verses": 107
     },
     {
       "n": 47,
-      "book": "사사기",
+      "book": "민수기",
       "testament": "old",
-      "start": 14,
-      "end": 17,
-      "chapterCount": 4,
-      "label": "사사기 14-17장",
-      "verses": 118
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "민수기 19-21장",
+      "verses": 107
     },
     {
       "n": 48,
-      "book": "사사기",
+      "book": "민수기",
       "testament": "old",
-      "start": 18,
-      "end": 21,
-      "chapterCount": 4,
-      "label": "사사기 18-21장",
-      "verses": 118
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "민수기 22-24장",
+      "verses": 107
     },
     {
       "n": 49,
-      "book": "룻기",
+      "book": "민수기",
       "testament": "old",
-      "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "룻기 1-4장",
-      "verses": 85
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "민수기 25-27장",
+      "verses": 107
     },
     {
       "n": 50,
-      "book": "사무엘상",
+      "book": "민수기",
       "testament": "old",
-      "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "사무엘상 1-6장",
-      "verses": 157
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "민수기 28-30장",
+      "verses": 107
     },
     {
       "n": 51,
-      "book": "사무엘상",
+      "book": "민수기",
       "testament": "old",
-      "start": 7,
-      "end": 11,
-      "chapterCount": 5,
-      "label": "사무엘상 7-11장",
-      "verses": 131
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "민수기 31-33장",
+      "verses": 107
     },
     {
       "n": 52,
-      "book": "사무엘상",
+      "book": "민수기",
       "testament": "old",
-      "start": 12,
-      "end": 16,
-      "chapterCount": 5,
-      "label": "사무엘상 12-16장",
-      "verses": 131
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "민수기 34-36장",
+      "verses": 107
     },
     {
       "n": 53,
-      "book": "사무엘상",
+      "book": "신명기",
       "testament": "old",
-      "start": 17,
-      "end": 21,
-      "chapterCount": 5,
-      "label": "사무엘상 17-21장",
-      "verses": 131
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "신명기 1-3장",
+      "verses": 85
     },
     {
       "n": 54,
-      "book": "사무엘상",
+      "book": "신명기",
       "testament": "old",
-      "start": 22,
-      "end": 26,
-      "chapterCount": 5,
-      "label": "사무엘상 22-26장",
-      "verses": 131
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "신명기 4-6장",
+      "verses": 85
     },
     {
       "n": 55,
-      "book": "사무엘상",
+      "book": "신명기",
       "testament": "old",
-      "start": 27,
-      "end": 31,
-      "chapterCount": 5,
-      "label": "사무엘상 27-31장",
-      "verses": 131
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "신명기 7-9장",
+      "verses": 85
     },
     {
       "n": 56,
-      "book": "사무엘하",
+      "book": "신명기",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "사무엘하 1-5장",
-      "verses": 145
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "신명기 10-12장",
+      "verses": 85
     },
     {
       "n": 57,
-      "book": "사무엘하",
+      "book": "신명기",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "사무엘하 6-10장",
-      "verses": 145
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "신명기 13-15장",
+      "verses": 85
     },
     {
       "n": 58,
-      "book": "사무엘하",
+      "book": "신명기",
       "testament": "old",
-      "start": 11,
-      "end": 15,
-      "chapterCount": 5,
-      "label": "사무엘하 11-15장",
-      "verses": 145
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "신명기 16-18장",
+      "verses": 85
     },
     {
       "n": 59,
-      "book": "사무엘하",
+      "book": "신명기",
       "testament": "old",
-      "start": 16,
-      "end": 20,
-      "chapterCount": 5,
-      "label": "사무엘하 16-20장",
-      "verses": 145
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "신명기 19-21장",
+      "verses": 85
     },
     {
       "n": 60,
-      "book": "사무엘하",
+      "book": "신명기",
       "testament": "old",
-      "start": 21,
+      "start": 22,
       "end": 24,
-      "chapterCount": 4,
-      "label": "사무엘하 21-24장",
-      "verses": 116
+      "chapterCount": 3,
+      "label": "신명기 22-24장",
+      "verses": 85
     },
     {
       "n": 61,
-      "book": "열왕기상",
+      "book": "신명기",
       "testament": "old",
-      "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "열왕기상 1-4장",
-      "verses": 148
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "신명기 25-27장",
+      "verses": 85
     },
     {
       "n": 62,
-      "book": "열왕기상",
+      "book": "신명기",
       "testament": "old",
-      "start": 5,
-      "end": 8,
-      "chapterCount": 4,
-      "label": "열왕기상 5-8장",
-      "verses": 148
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "신명기 28-30장",
+      "verses": 85
     },
     {
       "n": 63,
-      "book": "열왕기상",
+      "book": "신명기",
       "testament": "old",
-      "start": 9,
-      "end": 12,
-      "chapterCount": 4,
-      "label": "열왕기상 9-12장",
-      "verses": 148
+      "start": 31,
+      "end": 32,
+      "chapterCount": 2,
+      "label": "신명기 31-32장",
+      "verses": 56
     },
     {
       "n": 64,
-      "book": "열왕기상",
+      "book": "신명기",
       "testament": "old",
-      "start": 13,
-      "end": 16,
-      "chapterCount": 4,
-      "label": "열왕기상 13-16장",
-      "verses": 148
+      "start": 33,
+      "end": 34,
+      "chapterCount": 2,
+      "label": "신명기 33-34장",
+      "verses": 56
     },
     {
       "n": 65,
-      "book": "열왕기상",
+      "book": "여호수아",
       "testament": "old",
-      "start": 17,
-      "end": 19,
+      "start": 1,
+      "end": 3,
       "chapterCount": 3,
-      "label": "열왕기상 17-19장",
-      "verses": 111
+      "label": "여호수아 1-3장",
+      "verses": 82
     },
     {
       "n": 66,
-      "book": "열왕기상",
+      "book": "여호수아",
       "testament": "old",
-      "start": 20,
-      "end": 22,
+      "start": 4,
+      "end": 6,
       "chapterCount": 3,
-      "label": "열왕기상 20-22장",
-      "verses": 111
+      "label": "여호수아 4-6장",
+      "verses": 82
     },
     {
       "n": 67,
-      "book": "열왕기하",
+      "book": "여호수아",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "열왕기하 1-5장",
-      "verses": 144
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "여호수아 7-9장",
+      "verses": 82
     },
     {
       "n": 68,
-      "book": "열왕기하",
+      "book": "여호수아",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "열왕기하 6-10장",
-      "verses": 144
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "여호수아 10-12장",
+      "verses": 82
     },
     {
       "n": 69,
-      "book": "열왕기하",
+      "book": "여호수아",
       "testament": "old",
-      "start": 11,
+      "start": 13,
       "end": 15,
-      "chapterCount": 5,
-      "label": "열왕기하 11-15장",
-      "verses": 144
+      "chapterCount": 3,
+      "label": "여호수아 13-15장",
+      "verses": 82
     },
     {
       "n": 70,
-      "book": "열왕기하",
+      "book": "여호수아",
       "testament": "old",
       "start": 16,
-      "end": 20,
-      "chapterCount": 5,
-      "label": "열왕기하 16-20장",
-      "verses": 144
+      "end": 18,
+      "chapterCount": 3,
+      "label": "여호수아 16-18장",
+      "verses": 82
     },
     {
       "n": 71,
-      "book": "열왕기하",
+      "book": "여호수아",
       "testament": "old",
-      "start": 21,
-      "end": 25,
-      "chapterCount": 5,
-      "label": "열왕기하 21-25장",
-      "verses": 144
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "여호수아 19-21장",
+      "verses": 82
     },
     {
       "n": 72,
-      "book": "역대상",
+      "book": "여호수아",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "역대상 1-5장",
-      "verses": 162
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "여호수아 22-24장",
+      "verses": 82
     },
     {
       "n": 73,
-      "book": "역대상",
+      "book": "사사기",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "역대상 6-10장",
-      "verses": 162
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "사사기 1-3장",
+      "verses": 88
     },
     {
       "n": 74,
-      "book": "역대상",
+      "book": "사사기",
       "testament": "old",
-      "start": 11,
-      "end": 15,
-      "chapterCount": 5,
-      "label": "역대상 11-15장",
-      "verses": 162
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "사사기 4-6장",
+      "verses": 88
     },
     {
       "n": 75,
-      "book": "역대상",
+      "book": "사사기",
       "testament": "old",
-      "start": 16,
-      "end": 20,
-      "chapterCount": 5,
-      "label": "역대상 16-20장",
-      "verses": 162
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "사사기 7-9장",
+      "verses": 88
     },
     {
       "n": 76,
-      "book": "역대상",
+      "book": "사사기",
       "testament": "old",
-      "start": 21,
-      "end": 25,
-      "chapterCount": 5,
-      "label": "역대상 21-25장",
-      "verses": 162
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "사사기 10-12장",
+      "verses": 88
     },
     {
       "n": 77,
-      "book": "역대상",
+      "book": "사사기",
       "testament": "old",
-      "start": 26,
-      "end": 29,
-      "chapterCount": 4,
-      "label": "역대상 26-29장",
-      "verses": 130
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "사사기 13-15장",
+      "verses": 88
     },
     {
       "n": 78,
-      "book": "역대하",
+      "book": "사사기",
       "testament": "old",
-      "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "역대하 1-6장",
-      "verses": 137
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "사사기 16-18장",
+      "verses": 88
     },
     {
       "n": 79,
-      "book": "역대하",
+      "book": "사사기",
       "testament": "old",
-      "start": 7,
-      "end": 12,
-      "chapterCount": 6,
-      "label": "역대하 7-12장",
-      "verses": 137
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "사사기 19-21장",
+      "verses": 88
     },
     {
       "n": 80,
-      "book": "역대하",
+      "book": "룻기",
       "testament": "old",
-      "start": 13,
-      "end": 18,
-      "chapterCount": 6,
-      "label": "역대하 13-18장",
-      "verses": 137
+      "start": 1,
+      "end": 2,
+      "chapterCount": 2,
+      "label": "룻기 1-2장",
+      "verses": 43
     },
     {
       "n": 81,
-      "book": "역대하",
+      "book": "룻기",
       "testament": "old",
-      "start": 19,
-      "end": 24,
-      "chapterCount": 6,
-      "label": "역대하 19-24장",
-      "verses": 137
+      "start": 3,
+      "end": 4,
+      "chapterCount": 2,
+      "label": "룻기 3-4장",
+      "verses": 43
     },
     {
       "n": 82,
-      "book": "역대하",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 25,
-      "end": 30,
-      "chapterCount": 6,
-      "label": "역대하 25-30장",
-      "verses": 137
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "사무엘상 1-3장",
+      "verses": 78
     },
     {
       "n": 83,
-      "book": "역대하",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 31,
-      "end": 36,
-      "chapterCount": 6,
-      "label": "역대하 31-36장",
-      "verses": 137
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "사무엘상 4-6장",
+      "verses": 78
     },
     {
       "n": 84,
-      "book": "에스라",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "에스라 1-5장",
-      "verses": 140
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "사무엘상 7-9장",
+      "verses": 78
     },
     {
       "n": 85,
-      "book": "에스라",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "에스라 6-10장",
-      "verses": 140
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "사무엘상 10-12장",
+      "verses": 78
     },
     {
       "n": 86,
-      "book": "느헤미야",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "느헤미야 1-5장",
-      "verses": 156
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "사무엘상 13-15장",
+      "verses": 78
     },
     {
       "n": 87,
-      "book": "느헤미야",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 6,
-      "end": 9,
-      "chapterCount": 4,
-      "label": "느헤미야 6-9장",
-      "verses": 125
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "사무엘상 16-18장",
+      "verses": 78
     },
     {
       "n": 88,
-      "book": "느헤미야",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 10,
-      "end": 13,
-      "chapterCount": 4,
-      "label": "느헤미야 10-13장",
-      "verses": 125
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "사무엘상 19-21장",
+      "verses": 78
     },
     {
       "n": 89,
-      "book": "에스더",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "에스더 1-5장",
-      "verses": 84
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "사무엘상 22-24장",
+      "verses": 78
     },
     {
       "n": 90,
-      "book": "에스더",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "에스더 6-10장",
-      "verses": 84
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "사무엘상 25-27장",
+      "verses": 78
     },
     {
       "n": 91,
-      "book": "욥기",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "욥기 1-6장",
-      "verses": 153
+      "start": 28,
+      "end": 29,
+      "chapterCount": 2,
+      "label": "사무엘상 28-29장",
+      "verses": 52
     },
     {
       "n": 92,
-      "book": "욥기",
+      "book": "사무엘상",
       "testament": "old",
-      "start": 7,
-      "end": 12,
-      "chapterCount": 6,
-      "label": "욥기 7-12장",
-      "verses": 153
+      "start": 30,
+      "end": 31,
+      "chapterCount": 2,
+      "label": "사무엘상 30-31장",
+      "verses": 52
     },
     {
       "n": 93,
-      "book": "욥기",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 13,
-      "end": 18,
-      "chapterCount": 6,
-      "label": "욥기 13-18장",
-      "verses": 153
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "사무엘하 1-3장",
+      "verses": 87
     },
     {
       "n": 94,
-      "book": "욥기",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 19,
-      "end": 24,
-      "chapterCount": 6,
-      "label": "욥기 19-24장",
-      "verses": 153
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "사무엘하 4-6장",
+      "verses": 87
     },
     {
       "n": 95,
-      "book": "욥기",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 25,
-      "end": 30,
-      "chapterCount": 6,
-      "label": "욥기 25-30장",
-      "verses": 153
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "사무엘하 7-9장",
+      "verses": 87
     },
     {
       "n": 96,
-      "book": "욥기",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 31,
-      "end": 36,
-      "chapterCount": 6,
-      "label": "욥기 31-36장",
-      "verses": 153
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "사무엘하 10-12장",
+      "verses": 87
     },
     {
       "n": 97,
-      "book": "욥기",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 37,
-      "end": 42,
-      "chapterCount": 6,
-      "label": "욥기 37-42장",
-      "verses": 153
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "사무엘하 13-15장",
+      "verses": 87
     },
     {
       "n": 98,
-      "book": "시편",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 1,
-      "end": 7,
-      "chapterCount": 7,
-      "label": "시편 1-7장",
-      "verses": 115
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "사무엘하 16-18장",
+      "verses": 87
     },
     {
       "n": 99,
-      "book": "시편",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 8,
-      "end": 14,
-      "chapterCount": 7,
-      "label": "시편 8-14장",
-      "verses": 115
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "사무엘하 19-21장",
+      "verses": 87
     },
     {
       "n": 100,
-      "book": "시편",
+      "book": "사무엘하",
       "testament": "old",
-      "start": 15,
-      "end": 21,
-      "chapterCount": 7,
-      "label": "시편 15-21장",
-      "verses": 115
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "사무엘하 22-24장",
+      "verses": 87
     },
     {
       "n": 101,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 22,
-      "end": 28,
-      "chapterCount": 7,
-      "label": "시편 22-28장",
-      "verses": 115
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "열왕기상 1-3장",
+      "verses": 111
     },
     {
       "n": 102,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 29,
-      "end": 35,
-      "chapterCount": 7,
-      "label": "시편 29-35장",
-      "verses": 115
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "열왕기상 4-6장",
+      "verses": 111
     },
     {
       "n": 103,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 36,
-      "end": 42,
-      "chapterCount": 7,
-      "label": "시편 36-42장",
-      "verses": 115
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "열왕기상 7-9장",
+      "verses": 111
     },
     {
       "n": 104,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 43,
-      "end": 49,
-      "chapterCount": 7,
-      "label": "시편 43-49장",
-      "verses": 115
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "열왕기상 10-12장",
+      "verses": 111
     },
     {
       "n": 105,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 50,
-      "end": 56,
-      "chapterCount": 7,
-      "label": "시편 50-56장",
-      "verses": 115
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "열왕기상 13-15장",
+      "verses": 111
     },
     {
       "n": 106,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 57,
-      "end": 63,
-      "chapterCount": 7,
-      "label": "시편 57-63장",
-      "verses": 115
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "열왕기상 16-18장",
+      "verses": 111
     },
     {
       "n": 107,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 64,
-      "end": 70,
-      "chapterCount": 7,
-      "label": "시편 64-70장",
-      "verses": 115
+      "start": 19,
+      "end": 20,
+      "chapterCount": 2,
+      "label": "열왕기상 19-20장",
+      "verses": 74
     },
     {
       "n": 108,
-      "book": "시편",
+      "book": "열왕기상",
       "testament": "old",
-      "start": 71,
-      "end": 77,
-      "chapterCount": 7,
-      "label": "시편 71-77장",
-      "verses": 115
+      "start": 21,
+      "end": 22,
+      "chapterCount": 2,
+      "label": "열왕기상 21-22장",
+      "verses": 74
     },
     {
       "n": 109,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 78,
-      "end": 84,
-      "chapterCount": 7,
-      "label": "시편 78-84장",
-      "verses": 115
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "열왕기하 1-3장",
+      "verses": 86
     },
     {
       "n": 110,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 85,
-      "end": 91,
-      "chapterCount": 7,
-      "label": "시편 85-91장",
-      "verses": 115
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "열왕기하 4-6장",
+      "verses": 86
     },
     {
       "n": 111,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 92,
-      "end": 98,
-      "chapterCount": 7,
-      "label": "시편 92-98장",
-      "verses": 115
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "열왕기하 7-9장",
+      "verses": 86
     },
     {
       "n": 112,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 99,
-      "end": 105,
-      "chapterCount": 7,
-      "label": "시편 99-105장",
-      "verses": 115
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "열왕기하 10-12장",
+      "verses": 86
     },
     {
       "n": 113,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 106,
-      "end": 112,
-      "chapterCount": 7,
-      "label": "시편 106-112장",
-      "verses": 115
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "열왕기하 13-15장",
+      "verses": 86
     },
     {
       "n": 114,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 113,
-      "end": 119,
-      "chapterCount": 7,
-      "label": "시편 113-119장",
-      "verses": 115
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "열왕기하 16-18장",
+      "verses": 86
     },
     {
       "n": 115,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 120,
-      "end": 126,
-      "chapterCount": 7,
-      "label": "시편 120-126장",
-      "verses": 115
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "열왕기하 19-21장",
+      "verses": 86
     },
     {
       "n": 116,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 127,
-      "end": 132,
-      "chapterCount": 6,
-      "label": "시편 127-132장",
-      "verses": 98
+      "start": 22,
+      "end": 23,
+      "chapterCount": 2,
+      "label": "열왕기하 22-23장",
+      "verses": 58
     },
     {
       "n": 117,
-      "book": "시편",
+      "book": "열왕기하",
       "testament": "old",
-      "start": 133,
-      "end": 138,
-      "chapterCount": 6,
-      "label": "시편 133-138장",
-      "verses": 98
+      "start": 24,
+      "end": 25,
+      "chapterCount": 2,
+      "label": "열왕기하 24-25장",
+      "verses": 58
     },
     {
       "n": 118,
-      "book": "시편",
+      "book": "역대상",
       "testament": "old",
-      "start": 139,
-      "end": 144,
-      "chapterCount": 6,
-      "label": "시편 139-144장",
-      "verses": 98
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "역대상 1-3장",
+      "verses": 97
     },
     {
       "n": 119,
-      "book": "시편",
+      "book": "역대상",
       "testament": "old",
-      "start": 145,
-      "end": 150,
-      "chapterCount": 6,
-      "label": "시편 145-150장",
-      "verses": 98
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "역대상 4-6장",
+      "verses": 97
     },
     {
       "n": 120,
-      "book": "잠언",
+      "book": "역대상",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "잠언 1-5장",
-      "verses": 148
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "역대상 7-9장",
+      "verses": 97
     },
     {
       "n": 121,
-      "book": "잠언",
+      "book": "역대상",
       "testament": "old",
-      "start": 6,
-      "end": 10,
-      "chapterCount": 5,
-      "label": "잠언 6-10장",
-      "verses": 148
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "역대상 10-12장",
+      "verses": 97
     },
     {
       "n": 122,
-      "book": "잠언",
+      "book": "역대상",
       "testament": "old",
-      "start": 11,
+      "start": 13,
       "end": 15,
-      "chapterCount": 5,
-      "label": "잠언 11-15장",
-      "verses": 148
+      "chapterCount": 3,
+      "label": "역대상 13-15장",
+      "verses": 97
     },
     {
       "n": 123,
-      "book": "잠언",
+      "book": "역대상",
       "testament": "old",
       "start": 16,
-      "end": 19,
-      "chapterCount": 4,
-      "label": "잠언 16-19장",
-      "verses": 118
+      "end": 18,
+      "chapterCount": 3,
+      "label": "역대상 16-18장",
+      "verses": 97
     },
     {
       "n": 124,
-      "book": "잠언",
+      "book": "역대상",
       "testament": "old",
-      "start": 20,
-      "end": 23,
-      "chapterCount": 4,
-      "label": "잠언 20-23장",
-      "verses": 118
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "역대상 19-21장",
+      "verses": 97
     },
     {
       "n": 125,
-      "book": "잠언",
+      "book": "역대상",
       "testament": "old",
-      "start": 24,
-      "end": 27,
-      "chapterCount": 4,
-      "label": "잠언 24-27장",
-      "verses": 118
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "역대상 22-24장",
+      "verses": 97
     },
     {
       "n": 126,
-      "book": "잠언",
+      "book": "역대상",
       "testament": "old",
-      "start": 28,
-      "end": 31,
-      "chapterCount": 4,
-      "label": "잠언 28-31장",
-      "verses": 118
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "역대상 25-27장",
+      "verses": 97
     },
     {
       "n": 127,
-      "book": "전도서",
+      "book": "역대상",
       "testament": "old",
-      "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "전도서 1-6장",
-      "verses": 111
+      "start": 28,
+      "end": 29,
+      "chapterCount": 2,
+      "label": "역대상 28-29장",
+      "verses": 65
     },
     {
       "n": 128,
-      "book": "전도서",
+      "book": "역대하",
       "testament": "old",
-      "start": 7,
-      "end": 12,
-      "chapterCount": 6,
-      "label": "전도서 7-12장",
-      "verses": 111
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "역대하 1-3장",
+      "verses": 69
     },
     {
       "n": 129,
-      "book": "아가",
+      "book": "역대하",
       "testament": "old",
-      "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "아가 1-4장",
-      "verses": 59
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "역대하 4-6장",
+      "verses": 69
     },
     {
       "n": 130,
-      "book": "아가",
+      "book": "역대하",
       "testament": "old",
-      "start": 5,
-      "end": 8,
-      "chapterCount": 4,
-      "label": "아가 5-8장",
-      "verses": 59
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "역대하 7-9장",
+      "verses": 69
     },
     {
       "n": 131,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 1,
-      "end": 7,
-      "chapterCount": 7,
-      "label": "이사야 1-7장",
-      "verses": 137
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "역대하 10-12장",
+      "verses": 69
     },
     {
       "n": 132,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 8,
-      "end": 14,
-      "chapterCount": 7,
-      "label": "이사야 8-14장",
-      "verses": 137
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "역대하 13-15장",
+      "verses": 69
     },
     {
       "n": 133,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 15,
-      "end": 21,
-      "chapterCount": 7,
-      "label": "이사야 15-21장",
-      "verses": 137
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "역대하 16-18장",
+      "verses": 69
     },
     {
       "n": 134,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 22,
-      "end": 28,
-      "chapterCount": 7,
-      "label": "이사야 22-28장",
-      "verses": 137
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "역대하 19-21장",
+      "verses": 69
     },
     {
       "n": 135,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 29,
-      "end": 35,
-      "chapterCount": 7,
-      "label": "이사야 29-35장",
-      "verses": 137
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "역대하 22-24장",
+      "verses": 69
     },
     {
       "n": 136,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 36,
-      "end": 42,
-      "chapterCount": 7,
-      "label": "이사야 36-42장",
-      "verses": 137
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "역대하 25-27장",
+      "verses": 69
     },
     {
       "n": 137,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 43,
-      "end": 48,
-      "chapterCount": 6,
-      "label": "이사야 43-48장",
-      "verses": 117
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "역대하 28-30장",
+      "verses": 69
     },
     {
       "n": 138,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 49,
-      "end": 54,
-      "chapterCount": 6,
-      "label": "이사야 49-54장",
-      "verses": 117
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "역대하 31-33장",
+      "verses": 69
     },
     {
       "n": 139,
-      "book": "이사야",
+      "book": "역대하",
       "testament": "old",
-      "start": 55,
-      "end": 60,
-      "chapterCount": 6,
-      "label": "이사야 55-60장",
-      "verses": 117
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "역대하 34-36장",
+      "verses": 69
     },
     {
       "n": 140,
-      "book": "이사야",
+      "book": "에스라",
       "testament": "old",
-      "start": 61,
-      "end": 66,
-      "chapterCount": 6,
-      "label": "이사야 61-66장",
-      "verses": 117
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "에스라 1-3장",
+      "verses": 84
     },
     {
       "n": 141,
-      "book": "예레미야",
+      "book": "에스라",
       "testament": "old",
-      "start": 1,
+      "start": 4,
       "end": 6,
-      "chapterCount": 6,
-      "label": "예레미야 1-6장",
-      "verses": 157
+      "chapterCount": 3,
+      "label": "에스라 4-6장",
+      "verses": 84
     },
     {
       "n": 142,
-      "book": "예레미야",
+      "book": "에스라",
       "testament": "old",
       "start": 7,
-      "end": 12,
-      "chapterCount": 6,
-      "label": "예레미야 7-12장",
-      "verses": 157
+      "end": 8,
+      "chapterCount": 2,
+      "label": "에스라 7-8장",
+      "verses": 56
     },
     {
       "n": 143,
-      "book": "예레미야",
+      "book": "에스라",
       "testament": "old",
-      "start": 13,
-      "end": 18,
-      "chapterCount": 6,
-      "label": "예레미야 13-18장",
-      "verses": 157
+      "start": 9,
+      "end": 10,
+      "chapterCount": 2,
+      "label": "에스라 9-10장",
+      "verses": 56
     },
     {
       "n": 144,
-      "book": "예레미야",
+      "book": "느헤미야",
       "testament": "old",
-      "start": 19,
-      "end": 24,
-      "chapterCount": 6,
-      "label": "예레미야 19-24장",
-      "verses": 157
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "느헤미야 1-3장",
+      "verses": 94
     },
     {
       "n": 145,
-      "book": "예레미야",
+      "book": "느헤미야",
       "testament": "old",
-      "start": 25,
-      "end": 30,
-      "chapterCount": 6,
-      "label": "예레미야 25-30장",
-      "verses": 157
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "느헤미야 4-6장",
+      "verses": 94
     },
     {
       "n": 146,
-      "book": "예레미야",
+      "book": "느헤미야",
       "testament": "old",
-      "start": 31,
-      "end": 36,
-      "chapterCount": 6,
-      "label": "예레미야 31-36장",
-      "verses": 157
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "느헤미야 7-9장",
+      "verses": 94
     },
     {
       "n": 147,
-      "book": "예레미야",
+      "book": "느헤미야",
       "testament": "old",
-      "start": 37,
-      "end": 42,
-      "chapterCount": 6,
-      "label": "예레미야 37-42장",
-      "verses": 157
+      "start": 10,
+      "end": 11,
+      "chapterCount": 2,
+      "label": "느헤미야 10-11장",
+      "verses": 62
     },
     {
       "n": 148,
-      "book": "예레미야",
+      "book": "느헤미야",
       "testament": "old",
-      "start": 43,
-      "end": 47,
-      "chapterCount": 5,
-      "label": "예레미야 43-47장",
-      "verses": 131
+      "start": 12,
+      "end": 13,
+      "chapterCount": 2,
+      "label": "느헤미야 12-13장",
+      "verses": 62
     },
     {
       "n": 149,
-      "book": "예레미야",
+      "book": "에스더",
       "testament": "old",
-      "start": 48,
-      "end": 52,
-      "chapterCount": 5,
-      "label": "예레미야 48-52장",
-      "verses": 131
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "에스더 1-3장",
+      "verses": 50
     },
     {
       "n": 150,
-      "book": "예레미야애가",
+      "book": "에스더",
       "testament": "old",
-      "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "예레미야애가 1-5장",
-      "verses": 154
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "에스더 4-6장",
+      "verses": 50
     },
     {
       "n": 151,
-      "book": "에스겔",
+      "book": "에스더",
       "testament": "old",
-      "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "에스겔 1-6장",
-      "verses": 159
+      "start": 7,
+      "end": 8,
+      "chapterCount": 2,
+      "label": "에스더 7-8장",
+      "verses": 33
     },
     {
       "n": 152,
-      "book": "에스겔",
+      "book": "에스더",
       "testament": "old",
-      "start": 7,
-      "end": 12,
-      "chapterCount": 6,
-      "label": "에스겔 7-12장",
-      "verses": 159
+      "start": 9,
+      "end": 10,
+      "chapterCount": 2,
+      "label": "에스더 9-10장",
+      "verses": 33
     },
     {
       "n": 153,
-      "book": "에스겔",
+      "book": "욥기",
       "testament": "old",
-      "start": 13,
-      "end": 18,
-      "chapterCount": 6,
-      "label": "에스겔 13-18장",
-      "verses": 159
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "욥기 1-3장",
+      "verses": 76
     },
     {
       "n": 154,
-      "book": "에스겔",
+      "book": "욥기",
       "testament": "old",
-      "start": 19,
-      "end": 24,
-      "chapterCount": 6,
-      "label": "에스겔 19-24장",
-      "verses": 159
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "욥기 4-6장",
+      "verses": 76
     },
     {
       "n": 155,
-      "book": "에스겔",
+      "book": "욥기",
       "testament": "old",
-      "start": 25,
-      "end": 30,
-      "chapterCount": 6,
-      "label": "에스겔 25-30장",
-      "verses": 159
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "욥기 7-9장",
+      "verses": 76
     },
     {
       "n": 156,
-      "book": "에스겔",
+      "book": "욥기",
       "testament": "old",
-      "start": 31,
-      "end": 36,
-      "chapterCount": 6,
-      "label": "에스겔 31-36장",
-      "verses": 159
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "욥기 10-12장",
+      "verses": 76
     },
     {
       "n": 157,
-      "book": "에스겔",
+      "book": "욥기",
       "testament": "old",
-      "start": 37,
-      "end": 42,
-      "chapterCount": 6,
-      "label": "에스겔 37-42장",
-      "verses": 159
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "욥기 13-15장",
+      "verses": 76
     },
     {
       "n": 158,
-      "book": "에스겔",
+      "book": "욥기",
       "testament": "old",
-      "start": 43,
-      "end": 48,
-      "chapterCount": 6,
-      "label": "에스겔 43-48장",
-      "verses": 159
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "욥기 16-18장",
+      "verses": 76
     },
     {
       "n": 159,
-      "book": "다니엘",
+      "book": "욥기",
       "testament": "old",
-      "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "다니엘 1-4장",
-      "verses": 119
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "욥기 19-21장",
+      "verses": 76
     },
     {
       "n": 160,
-      "book": "다니엘",
+      "book": "욥기",
       "testament": "old",
-      "start": 5,
-      "end": 8,
-      "chapterCount": 4,
-      "label": "다니엘 5-8장",
-      "verses": 119
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "욥기 22-24장",
+      "verses": 76
     },
     {
       "n": 161,
-      "book": "다니엘",
+      "book": "욥기",
       "testament": "old",
-      "start": 9,
-      "end": 12,
-      "chapterCount": 4,
-      "label": "다니엘 9-12장",
-      "verses": 119
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "욥기 25-27장",
+      "verses": 76
     },
     {
       "n": 162,
-      "book": "호세아",
+      "book": "욥기",
       "testament": "old",
-      "start": 1,
-      "end": 7,
-      "chapterCount": 7,
-      "label": "호세아 1-7장",
-      "verses": 99
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "욥기 28-30장",
+      "verses": 76
     },
     {
       "n": 163,
-      "book": "호세아",
+      "book": "욥기",
       "testament": "old",
-      "start": 8,
-      "end": 14,
-      "chapterCount": 7,
-      "label": "호세아 8-14장",
-      "verses": 99
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "욥기 31-33장",
+      "verses": 76
     },
     {
       "n": 164,
+      "book": "욥기",
+      "testament": "old",
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "욥기 34-36장",
+      "verses": 76
+    },
+    {
+      "n": 165,
+      "book": "욥기",
+      "testament": "old",
+      "start": 37,
+      "end": 39,
+      "chapterCount": 3,
+      "label": "욥기 37-39장",
+      "verses": 76
+    },
+    {
+      "n": 166,
+      "book": "욥기",
+      "testament": "old",
+      "start": 40,
+      "end": 42,
+      "chapterCount": 3,
+      "label": "욥기 40-42장",
+      "verses": 76
+    },
+    {
+      "n": 167,
+      "book": "시편",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "시편 1-3장",
+      "verses": 49
+    },
+    {
+      "n": 168,
+      "book": "시편",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "시편 4-6장",
+      "verses": 49
+    },
+    {
+      "n": 169,
+      "book": "시편",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "시편 7-9장",
+      "verses": 49
+    },
+    {
+      "n": 170,
+      "book": "시편",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "시편 10-12장",
+      "verses": 49
+    },
+    {
+      "n": 171,
+      "book": "시편",
+      "testament": "old",
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "시편 13-15장",
+      "verses": 49
+    },
+    {
+      "n": 172,
+      "book": "시편",
+      "testament": "old",
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "시편 16-18장",
+      "verses": 49
+    },
+    {
+      "n": 173,
+      "book": "시편",
+      "testament": "old",
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "시편 19-21장",
+      "verses": 49
+    },
+    {
+      "n": 174,
+      "book": "시편",
+      "testament": "old",
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "시편 22-24장",
+      "verses": 49
+    },
+    {
+      "n": 175,
+      "book": "시편",
+      "testament": "old",
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "시편 25-27장",
+      "verses": 49
+    },
+    {
+      "n": 176,
+      "book": "시편",
+      "testament": "old",
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "시편 28-30장",
+      "verses": 49
+    },
+    {
+      "n": 177,
+      "book": "시편",
+      "testament": "old",
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "시편 31-33장",
+      "verses": 49
+    },
+    {
+      "n": 178,
+      "book": "시편",
+      "testament": "old",
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "시편 34-36장",
+      "verses": 49
+    },
+    {
+      "n": 179,
+      "book": "시편",
+      "testament": "old",
+      "start": 37,
+      "end": 39,
+      "chapterCount": 3,
+      "label": "시편 37-39장",
+      "verses": 49
+    },
+    {
+      "n": 180,
+      "book": "시편",
+      "testament": "old",
+      "start": 40,
+      "end": 42,
+      "chapterCount": 3,
+      "label": "시편 40-42장",
+      "verses": 49
+    },
+    {
+      "n": 181,
+      "book": "시편",
+      "testament": "old",
+      "start": 43,
+      "end": 45,
+      "chapterCount": 3,
+      "label": "시편 43-45장",
+      "verses": 49
+    },
+    {
+      "n": 182,
+      "book": "시편",
+      "testament": "old",
+      "start": 46,
+      "end": 48,
+      "chapterCount": 3,
+      "label": "시편 46-48장",
+      "verses": 49
+    },
+    {
+      "n": 183,
+      "book": "시편",
+      "testament": "old",
+      "start": 49,
+      "end": 51,
+      "chapterCount": 3,
+      "label": "시편 49-51장",
+      "verses": 49
+    },
+    {
+      "n": 184,
+      "book": "시편",
+      "testament": "old",
+      "start": 52,
+      "end": 54,
+      "chapterCount": 3,
+      "label": "시편 52-54장",
+      "verses": 49
+    },
+    {
+      "n": 185,
+      "book": "시편",
+      "testament": "old",
+      "start": 55,
+      "end": 57,
+      "chapterCount": 3,
+      "label": "시편 55-57장",
+      "verses": 49
+    },
+    {
+      "n": 186,
+      "book": "시편",
+      "testament": "old",
+      "start": 58,
+      "end": 60,
+      "chapterCount": 3,
+      "label": "시편 58-60장",
+      "verses": 49
+    },
+    {
+      "n": 187,
+      "book": "시편",
+      "testament": "old",
+      "start": 61,
+      "end": 63,
+      "chapterCount": 3,
+      "label": "시편 61-63장",
+      "verses": 49
+    },
+    {
+      "n": 188,
+      "book": "시편",
+      "testament": "old",
+      "start": 64,
+      "end": 66,
+      "chapterCount": 3,
+      "label": "시편 64-66장",
+      "verses": 49
+    },
+    {
+      "n": 189,
+      "book": "시편",
+      "testament": "old",
+      "start": 67,
+      "end": 69,
+      "chapterCount": 3,
+      "label": "시편 67-69장",
+      "verses": 49
+    },
+    {
+      "n": 190,
+      "book": "시편",
+      "testament": "old",
+      "start": 70,
+      "end": 72,
+      "chapterCount": 3,
+      "label": "시편 70-72장",
+      "verses": 49
+    },
+    {
+      "n": 191,
+      "book": "시편",
+      "testament": "old",
+      "start": 73,
+      "end": 75,
+      "chapterCount": 3,
+      "label": "시편 73-75장",
+      "verses": 49
+    },
+    {
+      "n": 192,
+      "book": "시편",
+      "testament": "old",
+      "start": 76,
+      "end": 78,
+      "chapterCount": 3,
+      "label": "시편 76-78장",
+      "verses": 49
+    },
+    {
+      "n": 193,
+      "book": "시편",
+      "testament": "old",
+      "start": 79,
+      "end": 81,
+      "chapterCount": 3,
+      "label": "시편 79-81장",
+      "verses": 49
+    },
+    {
+      "n": 194,
+      "book": "시편",
+      "testament": "old",
+      "start": 82,
+      "end": 84,
+      "chapterCount": 3,
+      "label": "시편 82-84장",
+      "verses": 49
+    },
+    {
+      "n": 195,
+      "book": "시편",
+      "testament": "old",
+      "start": 85,
+      "end": 87,
+      "chapterCount": 3,
+      "label": "시편 85-87장",
+      "verses": 49
+    },
+    {
+      "n": 196,
+      "book": "시편",
+      "testament": "old",
+      "start": 88,
+      "end": 90,
+      "chapterCount": 3,
+      "label": "시편 88-90장",
+      "verses": 49
+    },
+    {
+      "n": 197,
+      "book": "시편",
+      "testament": "old",
+      "start": 91,
+      "end": 93,
+      "chapterCount": 3,
+      "label": "시편 91-93장",
+      "verses": 49
+    },
+    {
+      "n": 198,
+      "book": "시편",
+      "testament": "old",
+      "start": 94,
+      "end": 96,
+      "chapterCount": 3,
+      "label": "시편 94-96장",
+      "verses": 49
+    },
+    {
+      "n": 199,
+      "book": "시편",
+      "testament": "old",
+      "start": 97,
+      "end": 99,
+      "chapterCount": 3,
+      "label": "시편 97-99장",
+      "verses": 49
+    },
+    {
+      "n": 200,
+      "book": "시편",
+      "testament": "old",
+      "start": 100,
+      "end": 102,
+      "chapterCount": 3,
+      "label": "시편 100-102장",
+      "verses": 49
+    },
+    {
+      "n": 201,
+      "book": "시편",
+      "testament": "old",
+      "start": 103,
+      "end": 105,
+      "chapterCount": 3,
+      "label": "시편 103-105장",
+      "verses": 49
+    },
+    {
+      "n": 202,
+      "book": "시편",
+      "testament": "old",
+      "start": 106,
+      "end": 108,
+      "chapterCount": 3,
+      "label": "시편 106-108장",
+      "verses": 49
+    },
+    {
+      "n": 203,
+      "book": "시편",
+      "testament": "old",
+      "start": 109,
+      "end": 111,
+      "chapterCount": 3,
+      "label": "시편 109-111장",
+      "verses": 49
+    },
+    {
+      "n": 204,
+      "book": "시편",
+      "testament": "old",
+      "start": 112,
+      "end": 114,
+      "chapterCount": 3,
+      "label": "시편 112-114장",
+      "verses": 49
+    },
+    {
+      "n": 205,
+      "book": "시편",
+      "testament": "old",
+      "start": 115,
+      "end": 117,
+      "chapterCount": 3,
+      "label": "시편 115-117장",
+      "verses": 49
+    },
+    {
+      "n": 206,
+      "book": "시편",
+      "testament": "old",
+      "start": 118,
+      "end": 120,
+      "chapterCount": 3,
+      "label": "시편 118-120장",
+      "verses": 49
+    },
+    {
+      "n": 207,
+      "book": "시편",
+      "testament": "old",
+      "start": 121,
+      "end": 123,
+      "chapterCount": 3,
+      "label": "시편 121-123장",
+      "verses": 49
+    },
+    {
+      "n": 208,
+      "book": "시편",
+      "testament": "old",
+      "start": 124,
+      "end": 126,
+      "chapterCount": 3,
+      "label": "시편 124-126장",
+      "verses": 49
+    },
+    {
+      "n": 209,
+      "book": "시편",
+      "testament": "old",
+      "start": 127,
+      "end": 129,
+      "chapterCount": 3,
+      "label": "시편 127-129장",
+      "verses": 49
+    },
+    {
+      "n": 210,
+      "book": "시편",
+      "testament": "old",
+      "start": 130,
+      "end": 132,
+      "chapterCount": 3,
+      "label": "시편 130-132장",
+      "verses": 49
+    },
+    {
+      "n": 211,
+      "book": "시편",
+      "testament": "old",
+      "start": 133,
+      "end": 135,
+      "chapterCount": 3,
+      "label": "시편 133-135장",
+      "verses": 49
+    },
+    {
+      "n": 212,
+      "book": "시편",
+      "testament": "old",
+      "start": 136,
+      "end": 138,
+      "chapterCount": 3,
+      "label": "시편 136-138장",
+      "verses": 49
+    },
+    {
+      "n": 213,
+      "book": "시편",
+      "testament": "old",
+      "start": 139,
+      "end": 141,
+      "chapterCount": 3,
+      "label": "시편 139-141장",
+      "verses": 49
+    },
+    {
+      "n": 214,
+      "book": "시편",
+      "testament": "old",
+      "start": 142,
+      "end": 144,
+      "chapterCount": 3,
+      "label": "시편 142-144장",
+      "verses": 49
+    },
+    {
+      "n": 215,
+      "book": "시편",
+      "testament": "old",
+      "start": 145,
+      "end": 147,
+      "chapterCount": 3,
+      "label": "시편 145-147장",
+      "verses": 49
+    },
+    {
+      "n": 216,
+      "book": "시편",
+      "testament": "old",
+      "start": 148,
+      "end": 150,
+      "chapterCount": 3,
+      "label": "시편 148-150장",
+      "verses": 49
+    },
+    {
+      "n": 217,
+      "book": "잠언",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "잠언 1-3장",
+      "verses": 89
+    },
+    {
+      "n": 218,
+      "book": "잠언",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "잠언 4-6장",
+      "verses": 89
+    },
+    {
+      "n": 219,
+      "book": "잠언",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "잠언 7-9장",
+      "verses": 89
+    },
+    {
+      "n": 220,
+      "book": "잠언",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "잠언 10-12장",
+      "verses": 89
+    },
+    {
+      "n": 221,
+      "book": "잠언",
+      "testament": "old",
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "잠언 13-15장",
+      "verses": 89
+    },
+    {
+      "n": 222,
+      "book": "잠언",
+      "testament": "old",
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "잠언 16-18장",
+      "verses": 89
+    },
+    {
+      "n": 223,
+      "book": "잠언",
+      "testament": "old",
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "잠언 19-21장",
+      "verses": 89
+    },
+    {
+      "n": 224,
+      "book": "잠언",
+      "testament": "old",
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "잠언 22-24장",
+      "verses": 89
+    },
+    {
+      "n": 225,
+      "book": "잠언",
+      "testament": "old",
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "잠언 25-27장",
+      "verses": 89
+    },
+    {
+      "n": 226,
+      "book": "잠언",
+      "testament": "old",
+      "start": 28,
+      "end": 29,
+      "chapterCount": 2,
+      "label": "잠언 28-29장",
+      "verses": 59
+    },
+    {
+      "n": 227,
+      "book": "잠언",
+      "testament": "old",
+      "start": 30,
+      "end": 31,
+      "chapterCount": 2,
+      "label": "잠언 30-31장",
+      "verses": 59
+    },
+    {
+      "n": 228,
+      "book": "전도서",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "전도서 1-3장",
+      "verses": 56
+    },
+    {
+      "n": 229,
+      "book": "전도서",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "전도서 4-6장",
+      "verses": 56
+    },
+    {
+      "n": 230,
+      "book": "전도서",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "전도서 7-9장",
+      "verses": 56
+    },
+    {
+      "n": 231,
+      "book": "전도서",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "전도서 10-12장",
+      "verses": 56
+    },
+    {
+      "n": 232,
+      "book": "아가",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "아가 1-3장",
+      "verses": 44
+    },
+    {
+      "n": 233,
+      "book": "아가",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "아가 4-6장",
+      "verses": 44
+    },
+    {
+      "n": 234,
+      "book": "아가",
+      "testament": "old",
+      "start": 7,
+      "end": 8,
+      "chapterCount": 2,
+      "label": "아가 7-8장",
+      "verses": 29
+    },
+    {
+      "n": 235,
+      "book": "이사야",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "이사야 1-3장",
+      "verses": 59
+    },
+    {
+      "n": 236,
+      "book": "이사야",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "이사야 4-6장",
+      "verses": 59
+    },
+    {
+      "n": 237,
+      "book": "이사야",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "이사야 7-9장",
+      "verses": 59
+    },
+    {
+      "n": 238,
+      "book": "이사야",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "이사야 10-12장",
+      "verses": 59
+    },
+    {
+      "n": 239,
+      "book": "이사야",
+      "testament": "old",
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "이사야 13-15장",
+      "verses": 59
+    },
+    {
+      "n": 240,
+      "book": "이사야",
+      "testament": "old",
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "이사야 16-18장",
+      "verses": 59
+    },
+    {
+      "n": 241,
+      "book": "이사야",
+      "testament": "old",
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "이사야 19-21장",
+      "verses": 59
+    },
+    {
+      "n": 242,
+      "book": "이사야",
+      "testament": "old",
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "이사야 22-24장",
+      "verses": 59
+    },
+    {
+      "n": 243,
+      "book": "이사야",
+      "testament": "old",
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "이사야 25-27장",
+      "verses": 59
+    },
+    {
+      "n": 244,
+      "book": "이사야",
+      "testament": "old",
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "이사야 28-30장",
+      "verses": 59
+    },
+    {
+      "n": 245,
+      "book": "이사야",
+      "testament": "old",
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "이사야 31-33장",
+      "verses": 59
+    },
+    {
+      "n": 246,
+      "book": "이사야",
+      "testament": "old",
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "이사야 34-36장",
+      "verses": 59
+    },
+    {
+      "n": 247,
+      "book": "이사야",
+      "testament": "old",
+      "start": 37,
+      "end": 39,
+      "chapterCount": 3,
+      "label": "이사야 37-39장",
+      "verses": 59
+    },
+    {
+      "n": 248,
+      "book": "이사야",
+      "testament": "old",
+      "start": 40,
+      "end": 42,
+      "chapterCount": 3,
+      "label": "이사야 40-42장",
+      "verses": 59
+    },
+    {
+      "n": 249,
+      "book": "이사야",
+      "testament": "old",
+      "start": 43,
+      "end": 45,
+      "chapterCount": 3,
+      "label": "이사야 43-45장",
+      "verses": 59
+    },
+    {
+      "n": 250,
+      "book": "이사야",
+      "testament": "old",
+      "start": 46,
+      "end": 48,
+      "chapterCount": 3,
+      "label": "이사야 46-48장",
+      "verses": 59
+    },
+    {
+      "n": 251,
+      "book": "이사야",
+      "testament": "old",
+      "start": 49,
+      "end": 51,
+      "chapterCount": 3,
+      "label": "이사야 49-51장",
+      "verses": 59
+    },
+    {
+      "n": 252,
+      "book": "이사야",
+      "testament": "old",
+      "start": 52,
+      "end": 54,
+      "chapterCount": 3,
+      "label": "이사야 52-54장",
+      "verses": 59
+    },
+    {
+      "n": 253,
+      "book": "이사야",
+      "testament": "old",
+      "start": 55,
+      "end": 57,
+      "chapterCount": 3,
+      "label": "이사야 55-57장",
+      "verses": 59
+    },
+    {
+      "n": 254,
+      "book": "이사야",
+      "testament": "old",
+      "start": 58,
+      "end": 60,
+      "chapterCount": 3,
+      "label": "이사야 58-60장",
+      "verses": 59
+    },
+    {
+      "n": 255,
+      "book": "이사야",
+      "testament": "old",
+      "start": 61,
+      "end": 63,
+      "chapterCount": 3,
+      "label": "이사야 61-63장",
+      "verses": 59
+    },
+    {
+      "n": 256,
+      "book": "이사야",
+      "testament": "old",
+      "start": 64,
+      "end": 66,
+      "chapterCount": 3,
+      "label": "이사야 64-66장",
+      "verses": 59
+    },
+    {
+      "n": 257,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "예레미야 1-3장",
+      "verses": 79
+    },
+    {
+      "n": 258,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "예레미야 4-6장",
+      "verses": 79
+    },
+    {
+      "n": 259,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "예레미야 7-9장",
+      "verses": 79
+    },
+    {
+      "n": 260,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "예레미야 10-12장",
+      "verses": 79
+    },
+    {
+      "n": 261,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "예레미야 13-15장",
+      "verses": 79
+    },
+    {
+      "n": 262,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "예레미야 16-18장",
+      "verses": 79
+    },
+    {
+      "n": 263,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "예레미야 19-21장",
+      "verses": 79
+    },
+    {
+      "n": 264,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "예레미야 22-24장",
+      "verses": 79
+    },
+    {
+      "n": 265,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "예레미야 25-27장",
+      "verses": 79
+    },
+    {
+      "n": 266,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "예레미야 28-30장",
+      "verses": 79
+    },
+    {
+      "n": 267,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "예레미야 31-33장",
+      "verses": 79
+    },
+    {
+      "n": 268,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "예레미야 34-36장",
+      "verses": 79
+    },
+    {
+      "n": 269,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 37,
+      "end": 39,
+      "chapterCount": 3,
+      "label": "예레미야 37-39장",
+      "verses": 79
+    },
+    {
+      "n": 270,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 40,
+      "end": 42,
+      "chapterCount": 3,
+      "label": "예레미야 40-42장",
+      "verses": 79
+    },
+    {
+      "n": 271,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 43,
+      "end": 45,
+      "chapterCount": 3,
+      "label": "예레미야 43-45장",
+      "verses": 79
+    },
+    {
+      "n": 272,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 46,
+      "end": 48,
+      "chapterCount": 3,
+      "label": "예레미야 46-48장",
+      "verses": 79
+    },
+    {
+      "n": 273,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 49,
+      "end": 50,
+      "chapterCount": 2,
+      "label": "예레미야 49-50장",
+      "verses": 52
+    },
+    {
+      "n": 274,
+      "book": "예레미야",
+      "testament": "old",
+      "start": 51,
+      "end": 52,
+      "chapterCount": 2,
+      "label": "예레미야 51-52장",
+      "verses": 52
+    },
+    {
+      "n": 275,
+      "book": "예레미야애가",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "예레미야애가 1-3장",
+      "verses": 92
+    },
+    {
+      "n": 276,
+      "book": "예레미야애가",
+      "testament": "old",
+      "start": 4,
+      "end": 5,
+      "chapterCount": 2,
+      "label": "예레미야애가 4-5장",
+      "verses": 62
+    },
+    {
+      "n": 277,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "에스겔 1-3장",
+      "verses": 80
+    },
+    {
+      "n": 278,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "에스겔 4-6장",
+      "verses": 80
+    },
+    {
+      "n": 279,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "에스겔 7-9장",
+      "verses": 80
+    },
+    {
+      "n": 280,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "에스겔 10-12장",
+      "verses": 80
+    },
+    {
+      "n": 281,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 13,
+      "end": 15,
+      "chapterCount": 3,
+      "label": "에스겔 13-15장",
+      "verses": 80
+    },
+    {
+      "n": 282,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "에스겔 16-18장",
+      "verses": 80
+    },
+    {
+      "n": 283,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "에스겔 19-21장",
+      "verses": 80
+    },
+    {
+      "n": 284,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 22,
+      "end": 24,
+      "chapterCount": 3,
+      "label": "에스겔 22-24장",
+      "verses": 80
+    },
+    {
+      "n": 285,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 25,
+      "end": 27,
+      "chapterCount": 3,
+      "label": "에스겔 25-27장",
+      "verses": 80
+    },
+    {
+      "n": 286,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 28,
+      "end": 30,
+      "chapterCount": 3,
+      "label": "에스겔 28-30장",
+      "verses": 80
+    },
+    {
+      "n": 287,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 31,
+      "end": 33,
+      "chapterCount": 3,
+      "label": "에스겔 31-33장",
+      "verses": 80
+    },
+    {
+      "n": 288,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 34,
+      "end": 36,
+      "chapterCount": 3,
+      "label": "에스겔 34-36장",
+      "verses": 80
+    },
+    {
+      "n": 289,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 37,
+      "end": 39,
+      "chapterCount": 3,
+      "label": "에스겔 37-39장",
+      "verses": 80
+    },
+    {
+      "n": 290,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 40,
+      "end": 42,
+      "chapterCount": 3,
+      "label": "에스겔 40-42장",
+      "verses": 80
+    },
+    {
+      "n": 291,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 43,
+      "end": 45,
+      "chapterCount": 3,
+      "label": "에스겔 43-45장",
+      "verses": 80
+    },
+    {
+      "n": 292,
+      "book": "에스겔",
+      "testament": "old",
+      "start": 46,
+      "end": 48,
+      "chapterCount": 3,
+      "label": "에스겔 46-48장",
+      "verses": 80
+    },
+    {
+      "n": 293,
+      "book": "다니엘",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "다니엘 1-3장",
+      "verses": 89
+    },
+    {
+      "n": 294,
+      "book": "다니엘",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "다니엘 4-6장",
+      "verses": 89
+    },
+    {
+      "n": 295,
+      "book": "다니엘",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "다니엘 7-9장",
+      "verses": 89
+    },
+    {
+      "n": 296,
+      "book": "다니엘",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "다니엘 10-12장",
+      "verses": 89
+    },
+    {
+      "n": 297,
+      "book": "호세아",
+      "testament": "old",
+      "start": 1,
+      "end": 3,
+      "chapterCount": 3,
+      "label": "호세아 1-3장",
+      "verses": 42
+    },
+    {
+      "n": 298,
+      "book": "호세아",
+      "testament": "old",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "호세아 4-6장",
+      "verses": 42
+    },
+    {
+      "n": 299,
+      "book": "호세아",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "호세아 7-9장",
+      "verses": 42
+    },
+    {
+      "n": 300,
+      "book": "호세아",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "호세아 10-12장",
+      "verses": 42
+    },
+    {
+      "n": 301,
+      "book": "호세아",
+      "testament": "old",
+      "start": 13,
+      "end": 14,
+      "chapterCount": 2,
+      "label": "호세아 13-14장",
+      "verses": 28
+    },
+    {
+      "n": 302,
       "book": "요엘",
       "testament": "old",
       "start": 1,
@@ -1648,27 +3026,37 @@
       "verses": 73
     },
     {
-      "n": 165,
+      "n": 303,
       "book": "아모스",
       "testament": "old",
       "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "아모스 1-5장",
-      "verses": 81
+      "end": 3,
+      "chapterCount": 3,
+      "label": "아모스 1-3장",
+      "verses": 49
     },
     {
-      "n": 166,
+      "n": 304,
       "book": "아모스",
       "testament": "old",
-      "start": 6,
-      "end": 9,
-      "chapterCount": 4,
-      "label": "아모스 6-9장",
-      "verses": 65
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "아모스 4-6장",
+      "verses": 49
     },
     {
-      "n": 167,
+      "n": 305,
+      "book": "아모스",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "아모스 7-9장",
+      "verses": 49
+    },
+    {
+      "n": 306,
       "book": "오바댜",
       "testament": "old",
       "start": 1,
@@ -1678,27 +3066,57 @@
       "verses": 21
     },
     {
-      "n": 168,
+      "n": 307,
       "book": "요나",
       "testament": "old",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "요나 1-4장",
-      "verses": 48
+      "end": 2,
+      "chapterCount": 2,
+      "label": "요나 1-2장",
+      "verses": 24
     },
     {
-      "n": 169,
+      "n": 308,
+      "book": "요나",
+      "testament": "old",
+      "start": 3,
+      "end": 4,
+      "chapterCount": 2,
+      "label": "요나 3-4장",
+      "verses": 24
+    },
+    {
+      "n": 309,
       "book": "미가",
       "testament": "old",
       "start": 1,
-      "end": 7,
-      "chapterCount": 7,
-      "label": "미가 1-7장",
-      "verses": 105
+      "end": 3,
+      "chapterCount": 3,
+      "label": "미가 1-3장",
+      "verses": 45
     },
     {
-      "n": 170,
+      "n": 310,
+      "book": "미가",
+      "testament": "old",
+      "start": 4,
+      "end": 5,
+      "chapterCount": 2,
+      "label": "미가 4-5장",
+      "verses": 30
+    },
+    {
+      "n": 311,
+      "book": "미가",
+      "testament": "old",
+      "start": 6,
+      "end": 7,
+      "chapterCount": 2,
+      "label": "미가 6-7장",
+      "verses": 30
+    },
+    {
+      "n": 312,
       "book": "나훔",
       "testament": "old",
       "start": 1,
@@ -1708,7 +3126,7 @@
       "verses": 47
     },
     {
-      "n": 171,
+      "n": 313,
       "book": "하박국",
       "testament": "old",
       "start": 1,
@@ -1718,7 +3136,7 @@
       "verses": 56
     },
     {
-      "n": 172,
+      "n": 314,
       "book": "스바냐",
       "testament": "old",
       "start": 1,
@@ -1728,7 +3146,7 @@
       "verses": 53
     },
     {
-      "n": 173,
+      "n": 315,
       "book": "학개",
       "testament": "old",
       "start": 1,
@@ -1738,157 +3156,237 @@
       "verses": 38
     },
     {
-      "n": 174,
+      "n": 316,
       "book": "스가랴",
       "testament": "old",
       "start": 1,
-      "end": 7,
-      "chapterCount": 7,
-      "label": "스가랴 1-7장",
-      "verses": 106
+      "end": 3,
+      "chapterCount": 3,
+      "label": "스가랴 1-3장",
+      "verses": 45
     },
     {
-      "n": 175,
+      "n": 317,
       "book": "스가랴",
       "testament": "old",
-      "start": 8,
-      "end": 14,
-      "chapterCount": 7,
-      "label": "스가랴 8-14장",
-      "verses": 106
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "스가랴 4-6장",
+      "verses": 45
     },
     {
-      "n": 176,
+      "n": 318,
+      "book": "스가랴",
+      "testament": "old",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "스가랴 7-9장",
+      "verses": 45
+    },
+    {
+      "n": 319,
+      "book": "스가랴",
+      "testament": "old",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "스가랴 10-12장",
+      "verses": 45
+    },
+    {
+      "n": 320,
+      "book": "스가랴",
+      "testament": "old",
+      "start": 13,
+      "end": 14,
+      "chapterCount": 2,
+      "label": "스가랴 13-14장",
+      "verses": 30
+    },
+    {
+      "n": 321,
       "book": "말라기",
       "testament": "old",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "말라기 1-4장",
-      "verses": 55
+      "end": 2,
+      "chapterCount": 2,
+      "label": "말라기 1-2장",
+      "verses": 28
     },
     {
-      "n": 177,
+      "n": 322,
+      "book": "말라기",
+      "testament": "old",
+      "start": 3,
+      "end": 4,
+      "chapterCount": 2,
+      "label": "말라기 3-4장",
+      "verses": 28
+    },
+    {
+      "n": 323,
       "book": "마태복음",
       "testament": "new",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "마태복음 1-4장",
-      "verses": 153
+      "end": 3,
+      "chapterCount": 3,
+      "label": "마태복음 1-3장",
+      "verses": 115
     },
     {
-      "n": 178,
+      "n": 324,
       "book": "마태복음",
       "testament": "new",
-      "start": 5,
-      "end": 8,
-      "chapterCount": 4,
-      "label": "마태복음 5-8장",
-      "verses": 153
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "마태복음 4-6장",
+      "verses": 115
     },
     {
-      "n": 179,
+      "n": 325,
       "book": "마태복음",
       "testament": "new",
-      "start": 9,
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "마태복음 7-9장",
+      "verses": 115
+    },
+    {
+      "n": 326,
+      "book": "마태복음",
+      "testament": "new",
+      "start": 10,
       "end": 12,
-      "chapterCount": 4,
-      "label": "마태복음 9-12장",
-      "verses": 153
+      "chapterCount": 3,
+      "label": "마태복음 10-12장",
+      "verses": 115
     },
     {
-      "n": 180,
+      "n": 327,
       "book": "마태복음",
       "testament": "new",
       "start": 13,
-      "end": 16,
-      "chapterCount": 4,
-      "label": "마태복음 13-16장",
-      "verses": 153
+      "end": 15,
+      "chapterCount": 3,
+      "label": "마태복음 13-15장",
+      "verses": 115
     },
     {
-      "n": 181,
+      "n": 328,
       "book": "마태복음",
       "testament": "new",
-      "start": 17,
-      "end": 20,
-      "chapterCount": 4,
-      "label": "마태복음 17-20장",
-      "verses": 153
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "마태복음 16-18장",
+      "verses": 115
     },
     {
-      "n": 182,
+      "n": 329,
       "book": "마태복음",
       "testament": "new",
-      "start": 21,
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "마태복음 19-21장",
+      "verses": 115
+    },
+    {
+      "n": 330,
+      "book": "마태복음",
+      "testament": "new",
+      "start": 22,
       "end": 24,
-      "chapterCount": 4,
-      "label": "마태복음 21-24장",
-      "verses": 153
+      "chapterCount": 3,
+      "label": "마태복음 22-24장",
+      "verses": 115
     },
     {
-      "n": 183,
+      "n": 331,
       "book": "마태복음",
       "testament": "new",
       "start": 25,
-      "end": 28,
-      "chapterCount": 4,
-      "label": "마태복음 25-28장",
-      "verses": 153
+      "end": 26,
+      "chapterCount": 2,
+      "label": "마태복음 25-26장",
+      "verses": 77
     },
     {
-      "n": 184,
+      "n": 332,
+      "book": "마태복음",
+      "testament": "new",
+      "start": 27,
+      "end": 28,
+      "chapterCount": 2,
+      "label": "마태복음 27-28장",
+      "verses": 77
+    },
+    {
+      "n": 333,
       "book": "마가복음",
       "testament": "new",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "마가복음 1-4장",
-      "verses": 170
-    },
-    {
-      "n": 185,
-      "book": "마가복음",
-      "testament": "new",
-      "start": 5,
-      "end": 7,
+      "end": 3,
       "chapterCount": 3,
-      "label": "마가복음 5-7장",
+      "label": "마가복음 1-3장",
       "verses": 127
     },
     {
-      "n": 186,
+      "n": 334,
       "book": "마가복음",
       "testament": "new",
-      "start": 8,
-      "end": 10,
+      "start": 4,
+      "end": 6,
       "chapterCount": 3,
-      "label": "마가복음 8-10장",
+      "label": "마가복음 4-6장",
       "verses": 127
     },
     {
-      "n": 187,
+      "n": 335,
       "book": "마가복음",
       "testament": "new",
-      "start": 11,
-      "end": 13,
+      "start": 7,
+      "end": 9,
       "chapterCount": 3,
-      "label": "마가복음 11-13장",
+      "label": "마가복음 7-9장",
       "verses": 127
     },
     {
-      "n": 188,
+      "n": 336,
       "book": "마가복음",
       "testament": "new",
-      "start": 14,
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "마가복음 10-12장",
+      "verses": 127
+    },
+    {
+      "n": 337,
+      "book": "마가복음",
+      "testament": "new",
+      "start": 13,
+      "end": 14,
+      "chapterCount": 2,
+      "label": "마가복음 13-14장",
+      "verses": 85
+    },
+    {
+      "n": 338,
+      "book": "마가복음",
+      "testament": "new",
+      "start": 15,
       "end": 16,
-      "chapterCount": 3,
-      "label": "마가복음 14-16장",
-      "verses": 127
+      "chapterCount": 2,
+      "label": "마가복음 15-16장",
+      "verses": 85
     },
     {
-      "n": 189,
+      "n": 339,
       "book": "누가복음",
       "testament": "new",
       "start": 1,
@@ -1898,7 +3396,7 @@
       "verses": 144
     },
     {
-      "n": 190,
+      "n": 340,
       "book": "누가복음",
       "testament": "new",
       "start": 4,
@@ -1908,7 +3406,7 @@
       "verses": 144
     },
     {
-      "n": 191,
+      "n": 341,
       "book": "누가복음",
       "testament": "new",
       "start": 7,
@@ -1918,7 +3416,7 @@
       "verses": 144
     },
     {
-      "n": 192,
+      "n": 342,
       "book": "누가복음",
       "testament": "new",
       "start": 10,
@@ -1928,7 +3426,7 @@
       "verses": 144
     },
     {
-      "n": 193,
+      "n": 343,
       "book": "누가복음",
       "testament": "new",
       "start": 13,
@@ -1938,7 +3436,7 @@
       "verses": 144
     },
     {
-      "n": 194,
+      "n": 344,
       "book": "누가복음",
       "testament": "new",
       "start": 16,
@@ -1948,7 +3446,7 @@
       "verses": 144
     },
     {
-      "n": 195,
+      "n": 345,
       "book": "누가복음",
       "testament": "new",
       "start": 19,
@@ -1958,7 +3456,7 @@
       "verses": 144
     },
     {
-      "n": 196,
+      "n": 346,
       "book": "누가복음",
       "testament": "new",
       "start": 22,
@@ -1968,37 +3466,47 @@
       "verses": 144
     },
     {
-      "n": 197,
+      "n": 347,
       "book": "요한복음",
       "testament": "new",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "요한복음 1-4장",
-      "verses": 167
+      "end": 3,
+      "chapterCount": 3,
+      "label": "요한복음 1-3장",
+      "verses": 126
     },
     {
-      "n": 198,
+      "n": 348,
       "book": "요한복음",
       "testament": "new",
-      "start": 5,
-      "end": 8,
-      "chapterCount": 4,
-      "label": "요한복음 5-8장",
-      "verses": 167
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "요한복음 4-6장",
+      "verses": 126
     },
     {
-      "n": 199,
+      "n": 349,
       "book": "요한복음",
       "testament": "new",
-      "start": 9,
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "요한복음 7-9장",
+      "verses": 126
+    },
+    {
+      "n": 350,
+      "book": "요한복음",
+      "testament": "new",
+      "start": 10,
       "end": 12,
-      "chapterCount": 4,
-      "label": "요한복음 9-12장",
-      "verses": 167
+      "chapterCount": 3,
+      "label": "요한복음 10-12장",
+      "verses": 126
     },
     {
-      "n": 200,
+      "n": 351,
       "book": "요한복음",
       "testament": "new",
       "start": 13,
@@ -2008,7 +3516,7 @@
       "verses": 126
     },
     {
-      "n": 201,
+      "n": 352,
       "book": "요한복음",
       "testament": "new",
       "start": 16,
@@ -2018,7 +3526,7 @@
       "verses": 126
     },
     {
-      "n": 202,
+      "n": 353,
       "book": "요한복음",
       "testament": "new",
       "start": 19,
@@ -2028,207 +3536,377 @@
       "verses": 126
     },
     {
-      "n": 203,
+      "n": 354,
       "book": "사도행전",
       "testament": "new",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "사도행전 1-4장",
-      "verses": 144
+      "end": 3,
+      "chapterCount": 3,
+      "label": "사도행전 1-3장",
+      "verses": 108
     },
     {
-      "n": 204,
+      "n": 355,
       "book": "사도행전",
       "testament": "new",
-      "start": 5,
-      "end": 8,
-      "chapterCount": 4,
-      "label": "사도행전 5-8장",
-      "verses": 144
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "사도행전 4-6장",
+      "verses": 108
     },
     {
-      "n": 205,
+      "n": 356,
       "book": "사도행전",
       "testament": "new",
-      "start": 9,
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "사도행전 7-9장",
+      "verses": 108
+    },
+    {
+      "n": 357,
+      "book": "사도행전",
+      "testament": "new",
+      "start": 10,
       "end": 12,
-      "chapterCount": 4,
-      "label": "사도행전 9-12장",
-      "verses": 144
+      "chapterCount": 3,
+      "label": "사도행전 10-12장",
+      "verses": 108
     },
     {
-      "n": 206,
+      "n": 358,
       "book": "사도행전",
       "testament": "new",
       "start": 13,
-      "end": 16,
-      "chapterCount": 4,
-      "label": "사도행전 13-16장",
-      "verses": 144
+      "end": 15,
+      "chapterCount": 3,
+      "label": "사도행전 13-15장",
+      "verses": 108
     },
     {
-      "n": 207,
+      "n": 359,
       "book": "사도행전",
       "testament": "new",
-      "start": 17,
-      "end": 20,
-      "chapterCount": 4,
-      "label": "사도행전 17-20장",
-      "verses": 144
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "사도행전 16-18장",
+      "verses": 108
     },
     {
-      "n": 208,
+      "n": 360,
       "book": "사도행전",
       "testament": "new",
-      "start": 21,
+      "start": 19,
+      "end": 21,
+      "chapterCount": 3,
+      "label": "사도행전 19-21장",
+      "verses": 108
+    },
+    {
+      "n": 361,
+      "book": "사도행전",
+      "testament": "new",
+      "start": 22,
       "end": 24,
-      "chapterCount": 4,
-      "label": "사도행전 21-24장",
-      "verses": 144
+      "chapterCount": 3,
+      "label": "사도행전 22-24장",
+      "verses": 108
     },
     {
-      "n": 209,
+      "n": 362,
       "book": "사도행전",
       "testament": "new",
       "start": 25,
+      "end": 26,
+      "chapterCount": 2,
+      "label": "사도행전 25-26장",
+      "verses": 72
+    },
+    {
+      "n": 363,
+      "book": "사도행전",
+      "testament": "new",
+      "start": 27,
       "end": 28,
-      "chapterCount": 4,
-      "label": "사도행전 25-28장",
-      "verses": 144
+      "chapterCount": 2,
+      "label": "사도행전 27-28장",
+      "verses": 72
     },
     {
-      "n": 210,
+      "n": 364,
       "book": "로마서",
       "testament": "new",
       "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "로마서 1-6장",
-      "verses": 162
+      "end": 3,
+      "chapterCount": 3,
+      "label": "로마서 1-3장",
+      "verses": 81
     },
     {
-      "n": 211,
+      "n": 365,
+      "book": "로마서",
+      "testament": "new",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "로마서 4-6장",
+      "verses": 81
+    },
+    {
+      "n": 366,
       "book": "로마서",
       "testament": "new",
       "start": 7,
-      "end": 11,
-      "chapterCount": 5,
-      "label": "로마서 7-11장",
-      "verses": 135
+      "end": 9,
+      "chapterCount": 3,
+      "label": "로마서 7-9장",
+      "verses": 81
     },
     {
-      "n": 212,
+      "n": 367,
       "book": "로마서",
       "testament": "new",
-      "start": 12,
-      "end": 16,
-      "chapterCount": 5,
-      "label": "로마서 12-16장",
-      "verses": 135
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "로마서 10-12장",
+      "verses": 81
     },
     {
-      "n": 213,
+      "n": 368,
+      "book": "로마서",
+      "testament": "new",
+      "start": 13,
+      "end": 14,
+      "chapterCount": 2,
+      "label": "로마서 13-14장",
+      "verses": 54
+    },
+    {
+      "n": 369,
+      "book": "로마서",
+      "testament": "new",
+      "start": 15,
+      "end": 16,
+      "chapterCount": 2,
+      "label": "로마서 15-16장",
+      "verses": 54
+    },
+    {
+      "n": 370,
       "book": "고린도전서",
       "testament": "new",
       "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "고린도전서 1-6장",
-      "verses": 164
+      "end": 3,
+      "chapterCount": 3,
+      "label": "고린도전서 1-3장",
+      "verses": 82
     },
     {
-      "n": 214,
+      "n": 371,
+      "book": "고린도전서",
+      "testament": "new",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "고린도전서 4-6장",
+      "verses": 82
+    },
+    {
+      "n": 372,
       "book": "고린도전서",
       "testament": "new",
       "start": 7,
-      "end": 11,
-      "chapterCount": 5,
-      "label": "고린도전서 7-11장",
-      "verses": 137
+      "end": 9,
+      "chapterCount": 3,
+      "label": "고린도전서 7-9장",
+      "verses": 82
     },
     {
-      "n": 215,
+      "n": 373,
       "book": "고린도전서",
       "testament": "new",
-      "start": 12,
-      "end": 16,
-      "chapterCount": 5,
-      "label": "고린도전서 12-16장",
-      "verses": 137
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "고린도전서 10-12장",
+      "verses": 82
     },
     {
-      "n": 216,
+      "n": 374,
+      "book": "고린도전서",
+      "testament": "new",
+      "start": 13,
+      "end": 14,
+      "chapterCount": 2,
+      "label": "고린도전서 13-14장",
+      "verses": 55
+    },
+    {
+      "n": 375,
+      "book": "고린도전서",
+      "testament": "new",
+      "start": 15,
+      "end": 16,
+      "chapterCount": 2,
+      "label": "고린도전서 15-16장",
+      "verses": 55
+    },
+    {
+      "n": 376,
       "book": "고린도후서",
       "testament": "new",
       "start": 1,
-      "end": 7,
-      "chapterCount": 7,
-      "label": "고린도후서 1-7장",
-      "verses": 138
+      "end": 3,
+      "chapterCount": 3,
+      "label": "고린도후서 1-3장",
+      "verses": 59
     },
     {
-      "n": 217,
+      "n": 377,
       "book": "고린도후서",
       "testament": "new",
-      "start": 8,
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "고린도후서 4-6장",
+      "verses": 59
+    },
+    {
+      "n": 378,
+      "book": "고린도후서",
+      "testament": "new",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "고린도후서 7-9장",
+      "verses": 59
+    },
+    {
+      "n": 379,
+      "book": "고린도후서",
+      "testament": "new",
+      "start": 10,
+      "end": 11,
+      "chapterCount": 2,
+      "label": "고린도후서 10-11장",
+      "verses": 40
+    },
+    {
+      "n": 380,
+      "book": "고린도후서",
+      "testament": "new",
+      "start": 12,
       "end": 13,
-      "chapterCount": 6,
-      "label": "고린도후서 8-13장",
-      "verses": 119
+      "chapterCount": 2,
+      "label": "고린도후서 12-13장",
+      "verses": 40
     },
     {
-      "n": 218,
+      "n": 381,
       "book": "갈라디아서",
       "testament": "new",
       "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "갈라디아서 1-6장",
-      "verses": 149
+      "end": 3,
+      "chapterCount": 3,
+      "label": "갈라디아서 1-3장",
+      "verses": 75
     },
     {
-      "n": 219,
+      "n": 382,
+      "book": "갈라디아서",
+      "testament": "new",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "갈라디아서 4-6장",
+      "verses": 75
+    },
+    {
+      "n": 383,
       "book": "에베소서",
       "testament": "new",
       "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "에베소서 1-6장",
-      "verses": 155
+      "end": 3,
+      "chapterCount": 3,
+      "label": "에베소서 1-3장",
+      "verses": 78
     },
     {
-      "n": 220,
+      "n": 384,
+      "book": "에베소서",
+      "testament": "new",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "에베소서 4-6장",
+      "verses": 78
+    },
+    {
+      "n": 385,
       "book": "빌립보서",
       "testament": "new",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "빌립보서 1-4장",
-      "verses": 104
+      "end": 2,
+      "chapterCount": 2,
+      "label": "빌립보서 1-2장",
+      "verses": 52
     },
     {
-      "n": 221,
+      "n": 386,
+      "book": "빌립보서",
+      "testament": "new",
+      "start": 3,
+      "end": 4,
+      "chapterCount": 2,
+      "label": "빌립보서 3-4장",
+      "verses": 52
+    },
+    {
+      "n": 387,
       "book": "골로새서",
       "testament": "new",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "골로새서 1-4장",
-      "verses": 95
+      "end": 2,
+      "chapterCount": 2,
+      "label": "골로새서 1-2장",
+      "verses": 48
     },
     {
-      "n": 222,
+      "n": 388,
+      "book": "골로새서",
+      "testament": "new",
+      "start": 3,
+      "end": 4,
+      "chapterCount": 2,
+      "label": "골로새서 3-4장",
+      "verses": 48
+    },
+    {
+      "n": 389,
       "book": "데살로니가전서",
       "testament": "new",
       "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "데살로니가전서 1-5장",
-      "verses": 89
+      "end": 3,
+      "chapterCount": 3,
+      "label": "데살로니가전서 1-3장",
+      "verses": 53
     },
     {
-      "n": 223,
+      "n": 390,
+      "book": "데살로니가전서",
+      "testament": "new",
+      "start": 4,
+      "end": 5,
+      "chapterCount": 2,
+      "label": "데살로니가전서 4-5장",
+      "verses": 36
+    },
+    {
+      "n": 391,
       "book": "데살로니가후서",
       "testament": "new",
       "start": 1,
@@ -2238,27 +3916,47 @@
       "verses": 47
     },
     {
-      "n": 224,
+      "n": 392,
       "book": "디모데전서",
       "testament": "new",
       "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "디모데전서 1-6장",
-      "verses": 113
+      "end": 3,
+      "chapterCount": 3,
+      "label": "디모데전서 1-3장",
+      "verses": 57
     },
     {
-      "n": 225,
+      "n": 393,
+      "book": "디모데전서",
+      "testament": "new",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "디모데전서 4-6장",
+      "verses": 57
+    },
+    {
+      "n": 394,
       "book": "디모데후서",
       "testament": "new",
       "start": 1,
-      "end": 4,
-      "chapterCount": 4,
-      "label": "디모데후서 1-4장",
-      "verses": 83
+      "end": 2,
+      "chapterCount": 2,
+      "label": "디모데후서 1-2장",
+      "verses": 42
     },
     {
-      "n": 226,
+      "n": 395,
+      "book": "디모데후서",
+      "testament": "new",
+      "start": 3,
+      "end": 4,
+      "chapterCount": 2,
+      "label": "디모데후서 3-4장",
+      "verses": 42
+    },
+    {
+      "n": 396,
       "book": "디도서",
       "testament": "new",
       "start": 1,
@@ -2268,7 +3966,7 @@
       "verses": 46
     },
     {
-      "n": 227,
+      "n": 397,
       "book": "빌레몬서",
       "testament": "new",
       "start": 1,
@@ -2278,47 +3976,97 @@
       "verses": 25
     },
     {
-      "n": 228,
+      "n": 398,
       "book": "히브리서",
       "testament": "new",
       "start": 1,
-      "end": 7,
-      "chapterCount": 7,
-      "label": "히브리서 1-7장",
-      "verses": 163
+      "end": 3,
+      "chapterCount": 3,
+      "label": "히브리서 1-3장",
+      "verses": 70
     },
     {
-      "n": 229,
+      "n": 399,
       "book": "히브리서",
       "testament": "new",
-      "start": 8,
-      "end": 13,
-      "chapterCount": 6,
-      "label": "히브리서 8-13장",
-      "verses": 140
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "히브리서 4-6장",
+      "verses": 70
     },
     {
-      "n": 230,
+      "n": 400,
+      "book": "히브리서",
+      "testament": "new",
+      "start": 7,
+      "end": 9,
+      "chapterCount": 3,
+      "label": "히브리서 7-9장",
+      "verses": 70
+    },
+    {
+      "n": 401,
+      "book": "히브리서",
+      "testament": "new",
+      "start": 10,
+      "end": 11,
+      "chapterCount": 2,
+      "label": "히브리서 10-11장",
+      "verses": 47
+    },
+    {
+      "n": 402,
+      "book": "히브리서",
+      "testament": "new",
+      "start": 12,
+      "end": 13,
+      "chapterCount": 2,
+      "label": "히브리서 12-13장",
+      "verses": 47
+    },
+    {
+      "n": 403,
       "book": "야고보서",
       "testament": "new",
       "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "야고보서 1-5장",
-      "verses": 108
+      "end": 3,
+      "chapterCount": 3,
+      "label": "야고보서 1-3장",
+      "verses": 65
     },
     {
-      "n": 231,
+      "n": 404,
+      "book": "야고보서",
+      "testament": "new",
+      "start": 4,
+      "end": 5,
+      "chapterCount": 2,
+      "label": "야고보서 4-5장",
+      "verses": 43
+    },
+    {
+      "n": 405,
       "book": "베드로전서",
       "testament": "new",
       "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "베드로전서 1-5장",
-      "verses": 105
+      "end": 3,
+      "chapterCount": 3,
+      "label": "베드로전서 1-3장",
+      "verses": 63
     },
     {
-      "n": 232,
+      "n": 406,
+      "book": "베드로전서",
+      "testament": "new",
+      "start": 4,
+      "end": 5,
+      "chapterCount": 2,
+      "label": "베드로전서 4-5장",
+      "verses": 42
+    },
+    {
+      "n": 407,
       "book": "베드로후서",
       "testament": "new",
       "start": 1,
@@ -2328,17 +4076,27 @@
       "verses": 61
     },
     {
-      "n": 233,
+      "n": 408,
       "book": "요한일서",
       "testament": "new",
       "start": 1,
-      "end": 5,
-      "chapterCount": 5,
-      "label": "요한일서 1-5장",
-      "verses": 105
+      "end": 3,
+      "chapterCount": 3,
+      "label": "요한일서 1-3장",
+      "verses": 63
     },
     {
-      "n": 234,
+      "n": 409,
+      "book": "요한일서",
+      "testament": "new",
+      "start": 4,
+      "end": 5,
+      "chapterCount": 2,
+      "label": "요한일서 4-5장",
+      "verses": 42
+    },
+    {
+      "n": 410,
       "book": "요한이서",
       "testament": "new",
       "start": 1,
@@ -2348,7 +4106,7 @@
       "verses": 13
     },
     {
-      "n": 235,
+      "n": 411,
       "book": "요한삼서",
       "testament": "new",
       "start": 1,
@@ -2358,7 +4116,7 @@
       "verses": 15
     },
     {
-      "n": 236,
+      "n": 412,
       "book": "유다서",
       "testament": "new",
       "start": 1,
@@ -2368,44 +4126,84 @@
       "verses": 25
     },
     {
-      "n": 237,
+      "n": 413,
       "book": "요한계시록",
       "testament": "new",
       "start": 1,
-      "end": 6,
-      "chapterCount": 6,
-      "label": "요한계시록 1-6장",
-      "verses": 110
+      "end": 3,
+      "chapterCount": 3,
+      "label": "요한계시록 1-3장",
+      "verses": 55
     },
     {
-      "n": 238,
+      "n": 414,
+      "book": "요한계시록",
+      "testament": "new",
+      "start": 4,
+      "end": 6,
+      "chapterCount": 3,
+      "label": "요한계시록 4-6장",
+      "verses": 55
+    },
+    {
+      "n": 415,
       "book": "요한계시록",
       "testament": "new",
       "start": 7,
-      "end": 12,
-      "chapterCount": 6,
-      "label": "요한계시록 7-12장",
-      "verses": 110
+      "end": 9,
+      "chapterCount": 3,
+      "label": "요한계시록 7-9장",
+      "verses": 55
     },
     {
-      "n": 239,
+      "n": 416,
+      "book": "요한계시록",
+      "testament": "new",
+      "start": 10,
+      "end": 12,
+      "chapterCount": 3,
+      "label": "요한계시록 10-12장",
+      "verses": 55
+    },
+    {
+      "n": 417,
       "book": "요한계시록",
       "testament": "new",
       "start": 13,
-      "end": 17,
-      "chapterCount": 5,
-      "label": "요한계시록 13-17장",
-      "verses": 92
+      "end": 15,
+      "chapterCount": 3,
+      "label": "요한계시록 13-15장",
+      "verses": 55
     },
     {
-      "n": 240,
+      "n": 418,
       "book": "요한계시록",
       "testament": "new",
-      "start": 18,
+      "start": 16,
+      "end": 18,
+      "chapterCount": 3,
+      "label": "요한계시록 16-18장",
+      "verses": 55
+    },
+    {
+      "n": 419,
+      "book": "요한계시록",
+      "testament": "new",
+      "start": 19,
+      "end": 20,
+      "chapterCount": 2,
+      "label": "요한계시록 19-20장",
+      "verses": 37
+    },
+    {
+      "n": 420,
+      "book": "요한계시록",
+      "testament": "new",
+      "start": 21,
       "end": 22,
-      "chapterCount": 5,
-      "label": "요한계시록 18-22장",
-      "verses": 92
+      "chapterCount": 2,
+      "label": "요한계시록 21-22장",
+      "verses": 37
     }
   ]
 }

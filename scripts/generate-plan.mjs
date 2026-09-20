@@ -3,10 +3,11 @@
  * 성경 통독표 생성기
  *
  * 설계 원칙
- *  1. 하루 분량은 "장 수"가 아니라 "절 수"를 기준으로 균등하게 맞춘다.
- *     (창세기 한 장과 시편 한 장의 분량이 3배 넘게 차이나기 때문)
+ *  1. 하루 3장. 분량을 낮게 고정해서 매일 부담 없이 읽는 것이 목적이다.
+ *     1년을 넘기더라도 꾸준히 읽히는 쪽을 택했다.
  *  2. 하루 분량은 절대 두 권에 걸치지 않는다. 한 권을 끝내고 다음 권으로 넘어간다.
- *  3. 하루 최대 장 수에 상한을 둔다. 숫자만 보고 지레 포기하지 않도록.
+ *     그래서 책마다 마지막 날은 1~2장이 될 수 있다.
+ *  3. 한 권 안에서는 장을 고르게 나눈다. 4장짜리 룻기는 (3,1)이 아니라 (2,2)로 읽는다.
  *  4. 날짜는 여기서 박지 않는다. 순번(1일차, 2일차...)만 만들고
  *     실제 달력 매핑은 src/schedule.js 가 런타임에 계산한다.
  *
@@ -19,12 +20,8 @@ import { BOOKS, TOTAL_CHAPTERS, TOTAL_VERSES } from '../src/bible.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-/** 하루에 읽을 목표 절 수. 낮출수록 분량이 줄고 통독 기간이 길어진다. */
-const TARGET_VERSES_PER_DAY = 150;
-/** 하루 최대 장 수 상한. 숫자가 커 보이면 지레 포기하게 된다. */
-const MAX_CHAPTERS_PER_DAY = 7;
-/** 하루 최대 절 수 상한. 장 수가 적어도 분량이 튀는 날을 막는다. */
-const MAX_VERSES_PER_DAY = 175;
+/** 하루에 읽을 장 수. 이 값만 바꾸면 통독표 전체가 다시 짜인다. */
+const CHAPTERS_PER_DAY = 3;
 
 /** 장 1..total 을 d 개의 연속 구간으로 최대한 고르게 자른다. */
 function splitChapters(total, d) {
@@ -40,28 +37,11 @@ function splitChapters(total, d) {
   return ranges;
 }
 
-/**
- * 한 권을 며칠에 나눠 읽을지 결정한다.
- * 목표 절 수로 출발한 뒤, 가장 긴 하루가 상한을 넘지 않을 때까지 날을 늘린다.
- * 상한은 평균이 아니라 "제일 긴 날"에 걸어야 의미가 있다 — 장을 고르게 잘라도
- * 나머지 때문에 한두 날은 한 장씩 더 가져가기 때문이다.
- */
-function daysForBook(book) {
-  const versesPerChapter = book.verses / book.chapters;
-  let days = Math.max(1, Math.round(book.verses / TARGET_VERSES_PER_DAY));
-  while (days < book.chapters) {
-    const longest = Math.ceil(book.chapters / days);
-    if (longest <= MAX_CHAPTERS_PER_DAY && longest * versesPerChapter <= MAX_VERSES_PER_DAY) break;
-    days++;
-  }
-  return Math.min(days, book.chapters);
-}
-
 const days = [];
 for (const book of BOOKS) {
-  const d = daysForBook(book);
+  const bookDays = Math.ceil(book.chapters / CHAPTERS_PER_DAY);
   const versesPerChapter = book.verses / book.chapters;
-  for (const [start, end] of splitChapters(book.chapters, d)) {
+  for (const [start, end] of splitChapters(book.chapters, bookDays)) {
     const chapterCount = end - start + 1;
     days.push({
       n: days.length + 1,
@@ -79,9 +59,7 @@ for (const book of BOOKS) {
 
 const plan = {
   generatedAt: new Date().toISOString().slice(0, 10),
-  targetVersesPerDay: TARGET_VERSES_PER_DAY,
-  maxChaptersPerDay: MAX_CHAPTERS_PER_DAY,
-  maxVersesPerDay: MAX_VERSES_PER_DAY,
+  chaptersPerDay: CHAPTERS_PER_DAY,
   totalDays: days.length,
   totalChapters: TOTAL_CHAPTERS,
   totalVerses: TOTAL_VERSES,
@@ -96,7 +74,11 @@ writeFileSync(outPath, JSON.stringify(plan, null, 2) + '\n');
 const chapterCounts = days.map((d) => d.chapterCount);
 const verseCounts = days.map((d) => d.verses);
 const avg = (a) => a.reduce((s, x) => s + x, 0) / a.length;
+const histogram = {};
+for (const c of chapterCounts) histogram[c] = (histogram[c] ?? 0) + 1;
+
 console.log(`생성 완료 → ${outPath}`);
 console.log(`  총 ${plan.totalDays}일 / ${TOTAL_CHAPTERS}장 / ${TOTAL_VERSES}절`);
 console.log(`  하루 장 수  : ${Math.min(...chapterCounts)}~${Math.max(...chapterCounts)}장 (평균 ${avg(chapterCounts).toFixed(1)}장)`);
 console.log(`  하루 절 수  : ${Math.min(...verseCounts)}~${Math.max(...verseCounts)}절 (평균 ${avg(verseCounts).toFixed(0)}절)`);
+console.log(`  장 수 분포  : ${Object.entries(histogram).map(([k, v]) => `${k}장 ${v}일`).join(' / ')}`);

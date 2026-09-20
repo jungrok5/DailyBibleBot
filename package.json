@@ -3,7 +3,7 @@
   "private": true,
   "version": "2.0.0",
   "type": "module",
-  "description": "주말·명절·고난주간을 뺀 평일 240일 성경 통독표 + 카카오톡 공유",
+  "description": "주말·명절·고난주간을 뺀 평일 하루 3장 성경 통독표 + 카카오톡 공유",
   "scripts": {
     "dev": "vite",
     "build": "npm run plan && vite build",
