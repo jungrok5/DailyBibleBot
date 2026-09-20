@@ -1,5 +1,4 @@
 import './style.css';
-import { readingDates, formatDate, todayKey, START_DATE } from './schedule.js';
 
 const KAKAO_JS_KEY = '95037b4ee26afd14af6732f642c0c9d0';
 const STORAGE_KEY = 'biblebot.shared.v1';
@@ -11,11 +10,13 @@ const modal = el('detail-modal');
 const toastEl = el('toast');
 
 let plan = null;      // reading_plan.json
-let dates = [];       // 순번 → 'YYYY-MM-DD'
 let shared = new Set();
 let openDay = null;   // 모달에 띄운 일차
 
 /* ── 공유 기록 (localStorage) ─────────────────────────
+   통독표에는 날짜가 없다. 진도는 오직 "공유 버튼을 눌렀는지"로만 나간다.
+   그래서 며칠을 건너뛰든 일정이 밀리는 개념 자체가 없다.
+
    시크릿 모드나 저장소 차단 환경에서는 읽기/쓰기가 던질 수 있다.
    그래도 통독표 자체는 보여야 하므로 전부 감싼다. */
 function loadShared() {
@@ -48,18 +49,6 @@ function nextUnshared() {
   return plan.days.find((d) => !shared.has(d.n)) ?? null;
 }
 
-/** 오늘 날짜 기준으로 원래 진도가 몇 일차여야 하는지. */
-function scheduledDayToday() {
-  const today = todayKey();
-  if (today < dates[0]) return 0;
-  let count = 0;
-  for (const date of dates) {
-    if (date > today) break;
-    count++;
-  }
-  return count;
-}
-
 function shareText(day) {
   return `📖 성경통독 ${day.n}일차\n${day.label}\n\n오늘도 함께 읽어요 🙏`;
 }
@@ -71,21 +60,10 @@ function renderProgress() {
   el('progress-count').textContent = `${done} / ${total}`;
   el('progress-fill').style.width = `${(done / total) * 100}%`;
 
-  const expected = scheduledDayToday();
   let detail;
-  if (done === 0) {
-    detail = `${formatDate(dates[0])} 시작 예정`;
-  } else if (done >= total) {
-    detail = '통독 완주! 🎉';
-  } else if (expected === 0) {
-    detail = '시작 전이에요';
-  } else if (done < expected) {
-    detail = `예정보다 ${expected - done}일 늦어요`;
-  } else if (done > expected) {
-    detail = `예정보다 ${done - expected}일 빨라요`;
-  } else {
-    detail = '일정대로 가고 있어요 👍';
-  }
+  if (done === 0) detail = '아직 시작 전이에요';
+  else if (done >= total) detail = '통독 완주! 🎉';
+  else detail = `${((done / total) * 100).toFixed(1)}% · ${total - done}일 남음`;
   el('progress-detail').textContent = detail;
 }
 
@@ -109,7 +87,7 @@ function renderNextPanel() {
       <div>
         <span class="eyebrow">다음 공유할 분량</span>
         <h2>${day.label}</h2>
-        <p class="sub">${day.n}일차 · ${formatDate(dates[day.n - 1])} 예정 · 약 ${day.verses}절</p>
+        <p class="sub">${day.n}일차 · ${day.chapterCount}장 · 약 ${day.verses}절</p>
       </div>
       <button class="primary-btn kakao-btn" data-share="${day.n}">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -135,16 +113,17 @@ function renderGrid() {
       lastBook = day.book;
     }
 
+    const isNext = next !== null && day.n === next.n;
     const classes = ['day-card'];
     if (isShared) classes.push('shared');
-    if (next && day.n === next.n) classes.push('next');
+    if (isNext) classes.push('next');
 
     parts.push(`
-      <button class="${classes.join(' ')}" data-day="${day.n}" ${next && day.n === next.n ? 'id="next-card-anchor"' : ''}>
+      <button class="${classes.join(' ')}" data-day="${day.n}" ${isNext ? 'id="next-card-anchor"' : ''}>
         ${isShared ? '<span class="shared-badge">공유함</span>' : ''}
         <span class="day-no">${day.n}일차</span>
         <h3>${day.label}</h3>
-        <span class="meta">${formatDate(dates[day.n - 1])}</span>
+        <span class="meta">약 ${day.verses}절</span>
       </button>`);
   }
 
@@ -203,7 +182,6 @@ function updateModal(n) {
   const isShared = shared.has(n);
   el('detail-day').textContent = `${day.n}일차`;
   el('detail-title').textContent = day.label;
-  el('detail-date').textContent = formatDate(dates[n - 1]);
   el('detail-amount').textContent = `${day.chapterCount}장 · 약 ${day.verses}절`;
   el('detail-status').textContent = isShared ? '✅ 공유함' : '아직 공유 전';
   el('toggle-share-btn').textContent = isShared ? '공유 안 함으로 되돌리기' : '공유 완료로 표시';
@@ -272,7 +250,6 @@ async function init() {
     return;
   }
 
-  dates = readingDates(plan.totalDays, START_DATE);
   shared = loadShared();
   bindEvents();
   render();
