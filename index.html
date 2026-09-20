@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO & SNS Meta Tags -->
+  <title>성경통독 - 매일 함께 읽기</title>
+  <meta name="description" content="주말과 명절을 뺀 평일 240일 통독표. 하루 분량을 매일 비슷하게 맞췄습니다." />
+
+  <!-- Kakao SDK -->
+  <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.6.0/kakao.min.js" crossorigin="anonymous"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div id="app">
+    <header class="glass-header">
+      <div class="header-content">
+        <h1>📖 성경통독</h1>
+        <p>매일 함께하는 성경 통독</p>
+      </div>
+      <button id="reset-shared" class="reset-btn" title="공유 기록 초기화">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path
+            d="M4 4V9H4.58152M19.9381 11C19.756 8.78308 18.825 6.7029 17.2951 5.09341C15.7652 3.48392 13.7259 2.43445 11.5117 2.11522C9.29759 1.79599 7.03154 2.2246 5.07405 3.32997C3.11656 4.43534 1.57948 6.15546 0.709931 8.20435M19.9381 11H14.9381M19.9381 11V6M19.9381 19V14H19.3566M4.06189 13C4.24405 15.2169 5.17498 17.2971 6.70487 18.9066C8.23477 20.5161 10.2741 21.5655 12.4883 21.8848C14.7024 22.204 16.9685 21.7754 18.9259 20.6701C20.8834 19.5647 22.4205 17.8445 23.2901 15.7957M4.06189 13H9.06189M4.06189 13V18"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+    </header>
+
+    <!-- 진행률 -->
+    <section class="progress-panel glass-panel-flat">
+      <div class="progress-text">
+        <strong id="progress-count">0 / 240</strong>
+        <span id="progress-detail">아직 시작하지 않았어요</span>
+      </div>
+      <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+    </section>
+
+    <!-- 오늘(다음) 공유할 분량 -->
+    <section id="next-panel" class="next-panel">
+      <!-- main.js 가 채운다 -->
+    </section>
+
+    <!-- 전체 통독표 -->
+    <section class="list-section">
+      <div class="list-header">
+        <h2>전체 통독표</h2>
+        <label class="toggle">
+          <input type="checkbox" id="hide-shared" />
+          <span>공유한 날 숨기기</span>
+        </label>
+      </div>
+      <main class="day-grid" id="day-grid"></main>
+    </section>
+  </div>
+
+  <!-- 상세 모달 -->
+  <div id="detail-modal" class="modal hidden">
+    <div class="modal-content glass-panel">
+      <button id="close-modal" class="close-btn" aria-label="닫기">&times;</button>
+      <div class="modal-body">
+        <div class="detail-info">
+          <span id="detail-day" class="detail-day">1일차</span>
+          <h2 id="detail-title">창세기 1-5장</h2>
+          <dl class="detail-meta">
+            <div><dt>예상 날짜</dt><dd id="detail-date">-</dd></div>
+            <div><dt>분량</dt><dd id="detail-amount">-</dd></div>
+            <div><dt>공유</dt><dd id="detail-status">-</dd></div>
+          </dl>
+        </div>
+        <div class="action-buttons">
+          <button id="kakao-share-btn" class="primary-btn kakao-btn">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12 3C6.477 3 2 6.582 2 11c0 2.872 1.83 5.394 4.61 6.837-.215.798-1.07 3.518-1.096 3.633-.035.156.126.168.204.114.103-.07 3.328-2.296 4.708-3.262.51.074 1.036.113 1.574.113 5.523 0 10-3.582 10-8s-4.477-8-10-8z"
+                fill="#000000" />
+            </svg>
+            카카오톡으로 공유하기
+          </button>
+          <button id="toggle-share-btn" class="ghost-btn">공유 완료로 표시</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast"></div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
